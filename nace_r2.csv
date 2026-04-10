@@ -1,0 +1,1344 @@
+concept,code,name,level,parent
+nace_r2,A,"Agriculture, forestry and fishing",1,NULL
+nace_r2,A-S,All NACE activities (except activities of households as employers and as own use producers; activities of extra-territorial organisations and bodies),0,NULL
+nace_r2,A-T,All NACE activities (except extra-territorial organisations and bodies),0,NULL
+nace_r2,A01,"Crop and animal production, hunting and related service activities",2,A
+nace_r2,A011,Growing of non-perennial crops,3,A01
+nace_r2,A0111,"Growing of cereals (except rice), leguminous crops and oil seeds",4,A011
+nace_r2,A0112,Growing of rice,4,A011
+nace_r2,A0113,"Growing of vegetables and melons, roots and tubers",4,A011
+nace_r2,A0114,Growing of sugar cane,4,A011
+nace_r2,A0115,Growing of tobacco,4,A011
+nace_r2,A0116,Growing of fibre crops,4,A011
+nace_r2,A0119,Growing of other non-perennial crops,4,A011
+nace_r2,A012,Growing of perennial crops,3,A01
+nace_r2,A0121,Growing of grapes,4,A012
+nace_r2,A0122,Growing of tropical and subtropical fruits,4,A012
+nace_r2,A0123,Growing of citrus fruits,4,A012
+nace_r2,A0124,Growing of pome fruits and stone fruits,4,A012
+nace_r2,A0125,Growing of other tree and bush fruits and nuts,4,A012
+nace_r2,A0126,Growing of oleaginous fruits,4,A012
+nace_r2,A0127,Growing of beverage crops,4,A012
+nace_r2,A0128,"Growing of spices, aromatic, drug and pharmaceutical crops",4,A012
+nace_r2,A0129,Growing of other perennial crops,4,A012
+nace_r2,A013,Plant propagation,3,A01
+nace_r2,A0130,Plant propagation,4,A013
+nace_r2,A014,Animal production,3,A01
+nace_r2,A0141,Raising of dairy cattle,4,A014
+nace_r2,A0142,Raising of other cattle and buffaloes,4,A014
+nace_r2,A0143,Raising of horses and other equines,4,A014
+nace_r2,A0144,Raising of camels and camelids,4,A014
+nace_r2,A0145,Raising of sheep and goats,4,A014
+nace_r2,A0146,Raising of swine/pigs,4,A014
+nace_r2,A0147,Raising of poultry,4,A014
+nace_r2,A0149,Raising of other animals,4,A014
+nace_r2,A015,Mixed farming,3,A01
+nace_r2,A0150,Mixed farming,4,A015
+nace_r2,A016,Support activities to agriculture and post-harvest crop activities,3,A01
+nace_r2,A0161,Support activities for crop production,4,A016
+nace_r2,A0162,Support activities for animal production,4,A016
+nace_r2,A0163,Post-harvest crop activities,4,A016
+nace_r2,A0164,Seed processing for propagation,4,A016
+nace_r2,A017,"Hunting, trapping and related service activities",3,A01
+nace_r2,A0170,"Hunting, trapping and related service activities",4,A017
+nace_r2,A01_A02,Agriculture and forestry,0,NULL
+nace_r2,A01_A02_X_A017,Agriculture and forestry (except hunting),0,NULL
+nace_r2,A01_A03_FOOD,"Primary production of food - agriculture, fishing and aquaculture",0,NULL
+nace_r2,A01_IRR,Irrigation in agriculture,0,NULL
+nace_r2,A02,Forestry and logging,2,A
+nace_r2,A021,Silviculture and other forestry activities,3,A02
+nace_r2,A0210,Silviculture and other forestry activities,4,A021
+nace_r2,A022,Logging,3,A02
+nace_r2,A0220,Logging,4,A022
+nace_r2,A023,Gathering of wild growing non-wood products,3,A02
+nace_r2,A0230,Gathering of wild growing non-wood products,4,A023
+nace_r2,A024,Support services to forestry,3,A02
+nace_r2,A0240,Support services to forestry,4,A024
+nace_r2,A03,Fishing and aquaculture,2,A
+nace_r2,A031,Fishing,3,A03
+nace_r2,A0311,Marine fishing,4,A031
+nace_r2,A0312,Freshwater fishing,4,A031
+nace_r2,A032,Aquaculture,3,A03
+nace_r2,A0321,Marine aquaculture,4,A032
+nace_r2,A0322,Freshwater aquaculture,4,A032
+nace_r2,AFT,"Agriculture, fishing and transport (except railways) - AFT",0,NULL
+nace_r2,A_B,"Agriculture, forestry and fishing; mining and quarrying",0,NULL
+nace_r2,A_C-N,Agriculture; industry and construction (except mining); services of the business economy,0,NULL
+nace_r2,A_EP_OTH,"Agriculture, forestry and fishing; other business sectors (mainly A, E38.3, F41 to U except O)",0,NULL
+nace_r2,A_F_H-U,All NACE activities (except industry; wholesale and retail trade; repair of motor vehicles and motorcycles),0,NULL
+nace_r2,B,Mining and quarrying,1,NULL
+nace_r2,B-D,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply",0,NULL
+nace_r2,B-D_F,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; construction",0,NULL
+nace_r2,B-D_X_FOOD,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply (except food, beverages and tobacco)",0,NULL
+nace_r2,B-E,Industry (except construction),0,NULL
+nace_r2,B-E36,"Industry (except construction, sewerage, waste management and remediation activities)",0,NULL
+nace_r2,B-E36_F,"Industry and construction (except sewerage, waste management and remediation activities)",0,NULL
+nace_r2,B-E36_X_FOOD,"Industry (except construction, sewerage, waste management and remediation activities), except food, beverages and tobacco",0,NULL
+nace_r2,B-F,Industry and construction,0,NULL
+nace_r2,B-F_X_C,Industry and construction (except manufacturing),0,NULL
+nace_r2,B-F_X_D,"Industry and construction (except electricity, gas, steam and air conditioning supply)",0,NULL
+nace_r2,B-M71_INN,Innovation core activities (Com.Reg. 1450/2004),0,NULL
+nace_r2,B-M73_INN,Economic activities covered by CIS regulation,0,NULL
+nace_r2,B-N,Business economy,0,NULL
+nace_r2,B-N_R_S,"Business economy; arts, entertainment and recreation; other service activities",0,NULL
+nace_r2,B-N_S95,"Total business economy; repair of computers, personal and household goods",0,NULL
+nace_r2,B-N_S95_X_K,"Total business economy; repair of computers, personal and household goods; except financial and insurance activities",0,NULL
+nace_r2,B-N_X_K,Total business economy except financial and insurance activities,0,NULL
+nace_r2,B-N_X_K642,Business economy except activities of holding companies,0,NULL
+nace_r2,B-S,"Industry, construction and services (except activities of households as employers and extra-territorial organisations and bodies)",0,NULL
+nace_r2,B-S_X_C_G_O_S94,"Industry, construction and market services (except manufacturing; wholesale and retail trade and repair of motor vehicles and motorcycles; public administration and defence; compulsory social security; activities of membership organisations)",0,NULL
+nace_r2,B-S_X_K642,"Industry, construction and services except activities of holding companies",0,NULL
+nace_r2,B-S_X_O,"Industry, construction and services (except public administration, defense, compulsory social security)",0,NULL
+nace_r2,B-S_X_O_S94,"Industry, construction and market services (except public administration and defence; compulsory social security; activities of membership organisations)",0,NULL
+nace_r2,B-S_X_S94,"Industry, construction and market services (except activities of membership organisations)",0,NULL
+nace_r2,B-T,"Industry, construction and services (except extra-territorial organisations and bodies)",0,NULL
+nace_r2,B-U,"Industry, construction and services",0,NULL
+nace_r2,B05,Mining of coal and lignite,2,B
+nace_r2,B051,Mining of hard coal,3,B05
+nace_r2,B0510,Mining of hard coal,4,B051
+nace_r2,B052,Mining of lignite,3,B05
+nace_r2,B0520,Mining of lignite,4,B052
+nace_r2,B06,Extraction of crude petroleum and natural gas,2,B
+nace_r2,B06-B09,"Mining and quarrying, except mining of coal and lignite",0,NULL
+nace_r2,B061,Extraction of crude petroleum,3,B06
+nace_r2,B0610,Extraction of crude petroleum,4,B061
+nace_r2,B062,Extraction of natural gas,3,B06
+nace_r2,B0620,Extraction of natural gas,4,B062
+nace_r2,B06_B09,"""Extraction of crude petroleum and natural gas; mining support service activities""",0,NULL
+nace_r2,B07,Mining of metal ores,2,B
+nace_r2,B07-B09_X_EPRD,"Mining, quarrying and mining support service activities except those related to energy products (uranium and thorium ores, peat, petroleum and natural gas)",0,NULL
+nace_r2,B071,Mining of iron ores,3,B07
+nace_r2,B0710,Mining of iron ores,4,B071
+nace_r2,B072,Mining of non-ferrous metal ores,3,B07
+nace_r2,B0721,Mining of uranium and thorium ores,4,B072
+nace_r2,B0729,Mining of other non-ferrous metal ores,4,B072
+nace_r2,B07_X_B0721,Mining of metal ores except mining of uranium and thorium ores,0,NULL
+nace_r2,B08,Other mining and quarrying,2,B
+nace_r2,B081,"Quarrying of stone, sand and clay",3,B08
+nace_r2,B0811,"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",4,B081
+nace_r2,B0812,"""Operation of gravel and sand pits; mining of clays and kaolin""",4,B081
+nace_r2,B089,Mining and quarrying n.e.c.,3,B08
+nace_r2,B0891,Mining of chemical and fertiliser minerals,4,B089
+nace_r2,B0892,Extraction of peat,4,B089
+nace_r2,B0893,Extraction of salt,4,B089
+nace_r2,B0899,Other mining and quarrying n.e.c.,4,B089
+nace_r2,B08_X_B0892,Other mining and quarrying except extraction of peat,0,NULL
+nace_r2,B09,Mining support service activities,2,B
+nace_r2,B091,Support activities for petroleum and natural gas extraction,3,B09
+nace_r2,B0910,Support activities for petroleum and natural gas extraction,4,B091
+nace_r2,B099,Support activities for other mining and quarrying,3,B09
+nace_r2,B0990,Support activities for other mining and quarrying,4,B099
+nace_r2,B_C,Mining and quarrying; manufacturing,0,NULL
+nace_r2,B_C_X_FD_MIG_NRG,"Mining and quarrying; manufacturing (except MIG energy), except food, beverages and tobacco",0,NULL
+nace_r2,B_C_X_FOOD,"Mining and quarrying; manufacturing (except food, beverages and tobacco)",0,NULL
+nace_r2,B_C_X_MIG_NRG,Mining and quarrying; manufacturing (except MIG energy),0,NULL
+nace_r2,B_D-F_XB0721,"Mining and quarrying, electricity, gas, water supply, construction (except mining of uranium)",0,NULL
+nace_r2,B_D_E,"Mining and quarrying; electricity, gas, steam and air conditioning supply; water supply, sewerage, waste management and remediation activities",0,NULL
+nace_r2,C,Manufacturing,1,NULL
+nace_r2,C-E,"Manufacturing, electricity, gas, steam and air conditioning; water supply, sewerage, waste management and remediation activities",0,NULL
+nace_r2,C-F,"Manufacturing, electricity, gas, steam and air conditioning supply; water supply and construction",0,NULL
+nace_r2,C10,Manufacture of food products,2,C
+nace_r2,C10-C12,Manufacture of food products; beverages and tobacco products,0,NULL
+nace_r2,C10-C18,"Manufacture of products based on: food, beverages, tobacco, textile, leather, wood, pulp and paper; publishing and printing",0,NULL
+nace_r2,C10-S951_X_K,"All activities (except agriculture, forestry and fishing, and mining and quarrying), without financial sector",0,NULL
+nace_r2,C101,Processing and preserving of meat and production of meat products,3,C10
+nace_r2,C1011,Processing and preserving of meat,4,C101
+nace_r2,C1012,Processing and preserving of poultry meat,4,C101
+nace_r2,C1013,Production of meat and poultry meat products,4,C101
+nace_r2,C101_PRC,Processing of meat and production of meat products,0,NULL
+nace_r2,C101_PRS,Preserving of meat and production of meat products,0,NULL
+nace_r2,C102,"Processing and preserving of fish, crustaceans and molluscs",3,C10
+nace_r2,C1020,"Processing and preserving of fish, crustaceans and molluscs",4,C102
+nace_r2,C102_PRC,"Processing of fish, crustaceans and molluscs",0,NULL
+nace_r2,C102_PRS,"Preserving of fish, crustaceans and molluscs",0,NULL
+nace_r2,C103,Processing and preserving of fruit and vegetables,3,C10
+nace_r2,C1031,Processing and preserving of potatoes,4,C103
+nace_r2,C1032,Manufacture of fruit and vegetable juice,4,C103
+nace_r2,C1039,Other processing and preserving of fruit and vegetables,4,C103
+nace_r2,C103_PRC,Processing of fruit and vegetables,0,NULL
+nace_r2,C103_PRS,Preserving of fruit and vegetables,0,NULL
+nace_r2,C104,Manufacture of vegetable and animal oils and fats,3,C10
+nace_r2,C1041,Manufacture of oils and fats,4,C104
+nace_r2,C1042,Manufacture of margarine and similar edible fats,4,C104
+nace_r2,C104_PRC,Manufacture of vegetable and animal oils and fats (processing),0,NULL
+nace_r2,C104_PRS,Manufacture of vegetable and animal oils and fats (preserving),0,NULL
+nace_r2,C105,Manufacture of dairy products,3,C10
+nace_r2,C1051,Operation of dairies and cheese making,4,C105
+nace_r2,C1052,Manufacture of ice cream,4,C105
+nace_r2,C105_PRC,Manufacture of dairy products (processing),0,NULL
+nace_r2,C105_PRS,Manufacture of dairy products (preserving),0,NULL
+nace_r2,C106,"Manufacture of grain mill products, starches and starch products",3,C10
+nace_r2,C1061,Manufacture of grain mill products,4,C106
+nace_r2,C1062,Manufacture of starches and starch products,4,C106
+nace_r2,C106_PRC,"Manufacture of grain mill products, starches and starch products (processing)",0,NULL
+nace_r2,C106_PRS,"Manufacture of grain mill products, starches and starch products (preserving)",0,NULL
+nace_r2,C107,Manufacture of bakery and farinaceous products,3,C10
+nace_r2,C1071,Manufacture of bread; manufacture of fresh pastry goods and cakes,4,C107
+nace_r2,C1072,Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes,4,C107
+nace_r2,C1073,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",4,C107
+nace_r2,C108,Manufacture of other food products,3,C10
+nace_r2,C1081,Manufacture of sugar,4,C108
+nace_r2,C1082,"Manufacture of cocoa, chocolate and sugar confectionery",4,C108
+nace_r2,C1083,Processing of tea and coffee,4,C108
+nace_r2,C1084,Manufacture of condiments and seasonings,4,C108
+nace_r2,C1085,Manufacture of prepared meals and dishes,4,C108
+nace_r2,C1086,Manufacture of homogenised food preparations and dietetic food,4,C108
+nace_r2,C1089,Manufacture of other food products n.e.c.,4,C108
+nace_r2,C108_PRC,Manufacture of other food products (processing),0,NULL
+nace_r2,C108_PRS,Manufacture of other food products (preserving),0,NULL
+nace_r2,C109,Manufacture of prepared animal feeds,3,C10
+nace_r2,C1091,Manufacture of prepared feeds for farm animals,4,C109
+nace_r2,C1092,Manufacture of prepared pet foods,4,C109
+nace_r2,C109_PRC,Manufacture of prepared animal feeds (processing),0,NULL
+nace_r2,C109_PRS,Manufacture of prepared animal feeds (preserving),0,NULL
+nace_r2,C10_C11,Manufacture of food products and beverages,0,NULL
+nace_r2,C11,Manufacture of beverages,2,C
+nace_r2,C110,Manufacture of beverages,3,C11
+nace_r2,C1101,"Distilling, rectifying and blending of spirits",4,C110
+nace_r2,C1102,Manufacture of wine from grape,4,C110
+nace_r2,C1103,Manufacture of cider and other fruit wines,4,C110
+nace_r2,C1104,Manufacture of other non-distilled fermented beverages,4,C110
+nace_r2,C1105,Manufacture of beer,4,C110
+nace_r2,C1106,Manufacture of malt,4,C110
+nace_r2,C1107,Manufacture of soft drinks; production of mineral waters and other bottled waters,4,C110
+nace_r2,C12,Manufacture of tobacco products,2,C
+nace_r2,C120,Manufacture of tobacco products,3,C12
+nace_r2,C1200,Manufacture of tobacco products,4,C120
+nace_r2,C13,Manufacture of textiles,2,C
+nace_r2,C13-C15,"Manufacture of textiles, wearing apparel, leather and related products",0,NULL
+nace_r2,C13-C16_C18_C31-C33,"Manufacture of textiles, wearing apparel, leather and related products, wood, printing and reproduction, furniture; jewellery, musical instruments, toys; repair and installation of machinery and equipment",0,NULL
+nace_r2,C131,Preparation and spinning of textile fibres,3,C13
+nace_r2,C1310,Preparation and spinning of textile fibres,4,C131
+nace_r2,C132,Weaving of textiles,3,C13
+nace_r2,C1320,Weaving of textiles,4,C132
+nace_r2,C133,Finishing of textiles,3,C13
+nace_r2,C1330,Finishing of textiles,4,C133
+nace_r2,C139,Manufacture of other textiles,3,C13
+nace_r2,C1391,Manufacture of knitted and crocheted fabrics,4,C139
+nace_r2,C1392,"Manufacture of made-up textile articles, except apparel",4,C139
+nace_r2,C1393,Manufacture of carpets and rugs,4,C139
+nace_r2,C1394,"Manufacture of cordage, rope, twine and netting",4,C139
+nace_r2,C1395,"Manufacture of non-wovens and articles made from non-wovens, except apparel",4,C139
+nace_r2,C1396,Manufacture of other technical and industrial textiles,4,C139
+nace_r2,C1399,Manufacture of other textiles n.e.c.,4,C139
+nace_r2,C13_C14,Manufacture of textiles and wearing apparel,0,NULL
+nace_r2,C14,Manufacture of wearing apparel,2,C
+nace_r2,C141,"Manufacture of wearing apparel, except fur apparel",3,C14
+nace_r2,C1411,Manufacture of leather clothes,4,C141
+nace_r2,C1412,Manufacture of workwear,4,C141
+nace_r2,C1413,Manufacture of other outerwear,4,C141
+nace_r2,C1414,Manufacture of underwear,4,C141
+nace_r2,C1419,Manufacture of other wearing apparel and accessories,4,C141
+nace_r2,C142,Manufacture of articles of fur,3,C14
+nace_r2,C1420,Manufacture of articles of fur,4,C142
+nace_r2,C143,Manufacture of knitted and crocheted apparel,3,C14
+nace_r2,C1431,Manufacture of knitted and crocheted hosiery,4,C143
+nace_r2,C1439,Manufacture of other knitted and crocheted apparel,4,C143
+nace_r2,C15,Manufacture of leather and related products,2,C
+nace_r2,C151,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",3,C15
+nace_r2,C1511,Tanning and dressing of leather; dressing and dyeing of fur,4,C151
+nace_r2,C1512,"Manufacture of luggage, handbags and the like, saddlery and harness",4,C151
+nace_r2,C152,Manufacture of footwear,3,C15
+nace_r2,C1520,Manufacture of footwear,4,C152
+nace_r2,C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2,C
+nace_r2,C16-C18,"Manufacture of wood, paper, printing and reproduction",0,NULL
+nace_r2,C161,Sawmilling and planing of wood,3,C16
+nace_r2,C1610,Sawmilling and planing of wood,4,C161
+nace_r2,C162,"Manufacture of products of wood, cork, straw and plaiting materials",3,C16
+nace_r2,C1621,Manufacture of veneer sheets and wood-based panels,4,C162
+nace_r2,C1622,Manufacture of assembled parquet floors,4,C162
+nace_r2,C1623,Manufacture of other builders' carpentry and joinery,4,C162
+nace_r2,C1624,Manufacture of wooden containers,4,C162
+nace_r2,C1629,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",4,C162
+nace_r2,C17,Manufacture of paper and paper products,2,C
+nace_r2,C171,"Manufacture of pulp, paper and paperboard",3,C17
+nace_r2,C1711,Manufacture of pulp,4,C171
+nace_r2,C1712,Manufacture of paper and paperboard,4,C171
+nace_r2,C172,Manufacture of articles of paper and paperboard,3,C17
+nace_r2,C1721,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,4,C172
+nace_r2,C1722,Manufacture of household and sanitary goods and of toilet requisites,4,C172
+nace_r2,C1723,Manufacture of paper stationery,4,C172
+nace_r2,C1724,Manufacture of wallpaper,4,C172
+nace_r2,C1729,Manufacture of other articles of paper and paperboard,4,C172
+nace_r2,C17_C18,Manufacture of paper and paper products; printing and reproduction of recorded media,0,NULL
+nace_r2,C17_C19_C20_C22-C24,"Manufacture of paper and paper products, coke and refined petroleum products, chemicals and chemical products, rubber and plastic products, other non-metallic mineral products, and basic metals",0,NULL
+nace_r2,C17_X_C1711,Manufacture of paper and paper products except pulp,0,NULL
+nace_r2,C18,Printing and reproduction of recorded media,2,C
+nace_r2,C181,Printing and service activities related to printing,3,C18
+nace_r2,C1811,Printing of newspapers,4,C181
+nace_r2,C1812,Other printing,4,C181
+nace_r2,C1813,Pre-press and pre-media services,4,C181
+nace_r2,C1814,Binding and related services,4,C181
+nace_r2,C182,Reproduction of recorded media,3,C18
+nace_r2,C1820,Reproduction of recorded media,4,C182
+nace_r2,C19,Manufacture of coke and refined petroleum products,2,C
+nace_r2,C19-C21,Manufacture of coke and refined petroleum product; chemicals and chemical products; basic pharmaceutical products and pharmaceutical preparations,0,NULL
+nace_r2,C19-C22,"Manufacture of petroleum, chemical, pharmaceutical, rubber and plastic products",0,NULL
+nace_r2,C19-C23,"Manufacture of coke, refined petroleum, chemical and basic pharmaceutical products, rubber and plastics, other non-metallic mineral products",0,NULL
+nace_r2,C191,Manufacture of coke oven products,3,C19
+nace_r2,C1910,Manufacture of coke oven products,4,C191
+nace_r2,C192,Manufacture of refined petroleum products,3,C19
+nace_r2,C1920,Manufacture of refined petroleum products,4,C192
+nace_r2,C192_C20,"Manufacture of refined petroleum products, chemicals and chemical products",0,NULL
+nace_r2,C19_C20,"Manufacture of coke and refined petroleum products, chemicals and chemical products",0,NULL
+nace_r2,C20,Manufacture of chemicals and chemical products,2,C
+nace_r2,C20-C22,"Manufacture of chemical, pharmaceutical, rubber and plastic products",0,NULL
+nace_r2,C201,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",3,C20
+nace_r2,C2011,Manufacture of industrial gases,4,C201
+nace_r2,C2012,Manufacture of dyes and pigments,4,C201
+nace_r2,C2013,Manufacture of other inorganic basic chemicals,4,C201
+nace_r2,C2014,Manufacture of other organic basic chemicals,4,C201
+nace_r2,C2015,Manufacture of fertilisers and nitrogen compounds,4,C201
+nace_r2,C2016,Manufacture of plastics in primary forms,4,C201
+nace_r2,C2017,Manufacture of synthetic rubber in primary forms,4,C201
+nace_r2,C202,Manufacture of pesticides and other agrochemical products,3,C20
+nace_r2,C2020,Manufacture of pesticides and other agrochemical products,4,C202
+nace_r2,C203,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",3,C20
+nace_r2,C2030,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",4,C203
+nace_r2,C204,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",3,C20
+nace_r2,C2041,"Manufacture of soap and detergents, cleaning and polishing preparations",4,C204
+nace_r2,C2042,Manufacture of perfumes and toilet preparations,4,C204
+nace_r2,C205,Manufacture of other chemical products,3,C20
+nace_r2,C2051,Manufacture of explosives,4,C205
+nace_r2,C2052,Manufacture of glues,4,C205
+nace_r2,C2053,Manufacture of essential oils,4,C205
+nace_r2,C2059,Manufacture of other chemical products n.e.c.,4,C205
+nace_r2,C206,Manufacture of man-made fibres,3,C20
+nace_r2,C2060,Manufacture of man-made fibres,4,C206
+nace_r2,C20_C21,Manufacture of chemicals and chemical products; basic pharmaceutical products and pharmaceutical preparations,0,NULL
+nace_r2,C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2,C
+nace_r2,C21-C23,"Manufacture of basic pharmaceutical products and pharmaceutical preparations, rubber and plastic products and other non-metallic mineral products",0,NULL
+nace_r2,C211,Manufacture of basic pharmaceutical products,3,C21
+nace_r2,C2110,Manufacture of basic pharmaceutical products,4,C211
+nace_r2,C212,Manufacture of pharmaceutical preparations,3,C21
+nace_r2,C2120,Manufacture of pharmaceutical preparations,4,C212
+nace_r2,C22,Manufacture of rubber and plastic products,2,C
+nace_r2,C221,Manufacture of rubber products,3,C22
+nace_r2,C2211,"""Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres""",4,C221
+nace_r2,C2219,Manufacture of other rubber products,4,C221
+nace_r2,C222,Manufacture of plastics products,3,C22
+nace_r2,C2221,"Manufacture of plastic plates, sheets, tubes and profiles",4,C222
+nace_r2,C2222,Manufacture of plastic packing goods,4,C222
+nace_r2,C2223,Manufacture of builders' ware of plastic,4,C222
+nace_r2,C2229,Manufacture of other plastic products,4,C222
+nace_r2,C22_C23,Manufacture of rubber and plastic products and other non-metallic mineral products,0,NULL
+nace_r2,C22_C31_C32,"Manufacture of rubber, plastic products, furniture and other manufacturing",0,NULL
+nace_r2,C23,Manufacture of other non-metallic mineral products,2,C
+nace_r2,C231,Manufacture of glass and glass products,3,C23
+nace_r2,C2311,Manufacture of flat glass,4,C231
+nace_r2,C2312,Shaping and processing of flat glass,4,C231
+nace_r2,C2313,Manufacture of hollow glass,4,C231
+nace_r2,C2314,Manufacture of glass fibres,4,C231
+nace_r2,C2319,"Manufacture and processing of other glass, including technical glassware",4,C231
+nace_r2,C232,Manufacture of refractory products,3,C23
+nace_r2,C2320,Manufacture of refractory products,4,C232
+nace_r2,C233,Manufacture of clay building materials,3,C23
+nace_r2,C2331,Manufacture of ceramic tiles and flags,4,C233
+nace_r2,C2332,"Manufacture of bricks, tiles and construction products, in baked clay",4,C233
+nace_r2,C234,Manufacture of other porcelain and ceramic products,3,C23
+nace_r2,C2341,Manufacture of ceramic household and ornamental articles,4,C234
+nace_r2,C2342,Manufacture of ceramic sanitary fixtures,4,C234
+nace_r2,C2343,Manufacture of ceramic insulators and insulating fittings,4,C234
+nace_r2,C2344,Manufacture of other technical ceramic products,4,C234
+nace_r2,C2349,Manufacture of other ceramic products,4,C234
+nace_r2,C235,"Manufacture of cement, lime and plaster",3,C23
+nace_r2,C2351,Manufacture of cement,4,C235
+nace_r2,C2352,Manufacture of lime and plaster,4,C235
+nace_r2,C236,"Manufacture of articles of concrete, cement and plaster",3,C23
+nace_r2,C2361,Manufacture of concrete products for construction purposes,4,C236
+nace_r2,C2362,Manufacture of plaster products for construction purposes,4,C236
+nace_r2,C2363,Manufacture of ready-mixed concrete,4,C236
+nace_r2,C2364,Manufacture of mortars,4,C236
+nace_r2,C2365,Manufacture of fibre cement,4,C236
+nace_r2,C2369,"Manufacture of other articles of concrete, plaster and cement",4,C236
+nace_r2,C237,"Cutting, shaping and finishing of stone",3,C23
+nace_r2,C2370,"Cutting, shaping and finishing of stone",4,C237
+nace_r2,C239,Manufacture of abrasive products and non-metallic mineral products n.e.c.,3,C23
+nace_r2,C2391,Production of abrasive products,4,C239
+nace_r2,C2399,Manufacture of other non-metallic mineral products n.e.c.,4,C239
+nace_r2,C23_X_C231_C235,"Manufacture of other non-metallic mineral products except glass, glass products, cement, lime and plaster",0,NULL
+nace_r2,C24,Manufacture of basic metals,2,C
+nace_r2,C241,Manufacture of basic iron and steel and of ferro-alloys,3,C24
+nace_r2,C241-C243_C2451_C2452,Manufacturing activities related to iron and steel,0,NULL
+nace_r2,C2410,Manufacture of basic iron and steel and of ferro-alloys,4,C241
+nace_r2,C241_C2452,Steel,0,NULL
+nace_r2,C242,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",3,C24
+nace_r2,C2420,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",4,C242
+nace_r2,C243,Manufacture of other products of first processing of steel,3,C24
+nace_r2,C2431,Cold drawing of bars,4,C243
+nace_r2,C2432,Cold rolling of narrow strip,4,C243
+nace_r2,C2433,Cold forming or folding,4,C243
+nace_r2,C2434,Cold drawing of wire,4,C243
+nace_r2,C244,Manufacture of basic precious and other non-ferrous metals,3,C24
+nace_r2,C2441,Precious metals production,4,C244
+nace_r2,C2442,Aluminium production,4,C244
+nace_r2,C2443,"Lead, zinc and tin production",4,C244
+nace_r2,C2444,Copper production,4,C244
+nace_r2,C2445,Other non-ferrous metal production,4,C244
+nace_r2,C2446,Processing of nuclear fuel,4,C244
+nace_r2,C244_C2453_C2454,"Manufacture of basic precious and other non-ferrous metals, casting of light metals and of other non-ferrous metals",0,NULL
+nace_r2,C244_C2453_C2454_X_C2442,"Manufacture of basic precious and other non-ferrous metals, casting of light metals and of other non-ferrous metals except aluminium production",0,NULL
+nace_r2,C244_X_C2442,Manufacture of basic precious and other non-ferrous metals except aluminium production,0,NULL
+nace_r2,C245,Casting of metals,3,C24
+nace_r2,C2451,Casting of iron,4,C245
+nace_r2,C2452,Casting of steel,4,C245
+nace_r2,C2453,Casting of light metals,4,C245
+nace_r2,C2454,Casting of other non-ferrous metals,4,C245
+nace_r2,C24_C25,"Manufacture of basic metals and fabricated metal products, except machinery and equipment",0,NULL
+nace_r2,C24_FER,"Manufacture of basic iron and steel and of ferro-alloys; of tubes, pipes, hollow profiles, related fittings and other products of first processing of steel; casting of iron and steel",0,NULL
+nace_r2,C24_NFER,Manufacture of basic precious and other non-ferrous metals; casting of light metals and other non-ferrous metals,0,NULL
+nace_r2,C25,"Manufacture of fabricated metal products, except machinery and equipment",2,C
+nace_r2,C25-C28,"Manufacture of fabricated metal products, computer, electronic and optical products, electrical equipment, machinery and equipment n.e.c.",0,NULL
+nace_r2,C25-C30,"Manufacture of fabricated metal products, computer, electronic and optical products, electrical equipment, machinery, motor vehicles and other transport equipment",0,NULL
+nace_r2,C25-C33,Manufacture of metal products and other equipment,0,NULL
+nace_r2,C251,Manufacture of structural metal products,3,C25
+nace_r2,C2511,Manufacture of metal structures and parts of structures,4,C251
+nace_r2,C2512,Manufacture of doors and windows of metal,4,C251
+nace_r2,C252,"Manufacture of tanks, reservoirs and containers of metal",3,C25
+nace_r2,C2521,Manufacture of central heating radiators and boilers,4,C252
+nace_r2,C2529,"Manufacture of other tanks, reservoirs and containers of metal",4,C252
+nace_r2,C253,"Manufacture of steam generators, except central heating hot water boilers",3,C25
+nace_r2,C2530,"Manufacture of steam generators, except central heating hot water boilers",4,C253
+nace_r2,C254,Manufacture of weapons and ammunition,3,C25
+nace_r2,C2540,Manufacture of weapons and ammunition,4,C254
+nace_r2,C255,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",3,C25
+nace_r2,C2550,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",4,C255
+nace_r2,C256,Treatment and coating of metals; machining,3,C25
+nace_r2,C2561,Treatment and coating of metals,4,C256
+nace_r2,C2562,Machining,4,C256
+nace_r2,C257,"Manufacture of cutlery, tools and general hardware",3,C25
+nace_r2,C2571,Manufacture of cutlery,4,C257
+nace_r2,C2572,Manufacture of locks and hinges,4,C257
+nace_r2,C2573,Manufacture of tools,4,C257
+nace_r2,C259,Manufacture of other fabricated metal products,3,C25
+nace_r2,C2591,Manufacture of steel drums and similar containers,4,C259
+nace_r2,C2592,Manufacture of light metal packaging,4,C259
+nace_r2,C2593,"Manufacture of wire products, chain and springs",4,C259
+nace_r2,C2594,Manufacture of fasteners and screw machine products,4,C259
+nace_r2,C2599,Manufacture of other fabricated metal products n.e.c.,4,C259
+nace_r2,C25_X_C254,"Manufacture of fabricated metal products, except weapons and ammunition, machinery and equipment",0,NULL
+nace_r2,C26,"Manufacture of computer, electronic and optical products",2,C
+nace_r2,C26-C28,"Manufacture of computer, electronic and optical products, electrical equipment, machinery and equipment n.e.c.",0,NULL
+nace_r2,C26-C30,"Manufacture of computer, electronic and optical products, electrical equipment, motor vehicles and other transport equipment",0,NULL
+nace_r2,C26-C33,"Manufacture of computers, electric and optical products, electrical equipment, machinery and equipment n.e.c, motor vehicles, other transport equipment, furniture, other manufacturing, repair and installation of machinery and equipment",0,NULL
+nace_r2,C261,Manufacture of electronic components and boards,3,C26
+nace_r2,C2611,Manufacture of electronic components,4,C261
+nace_r2,C2612,Manufacture of loaded electronic boards,4,C261
+nace_r2,C262,Manufacture of computers and peripheral equipment,3,C26
+nace_r2,C2620,Manufacture of computers and peripheral equipment,4,C262
+nace_r2,C263,Manufacture of communication equipment,3,C26
+nace_r2,C2630,Manufacture of communication equipment,4,C263
+nace_r2,C263_C264,Manufacture of communication equipment and consumer electronics,0,NULL
+nace_r2,C264,Manufacture of consumer electronics,3,C26
+nace_r2,C2640,Manufacture of consumer electronics,4,C264
+nace_r2,C265,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",3,C26
+nace_r2,C2651,"Manufacture of instruments and appliances for measuring, testing and navigation",4,C265
+nace_r2,C2652,Manufacture of watches and clocks,4,C265
+nace_r2,C265_C266,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks; manufacture of irradiation, electromedical and electrotherapeutic equipment",0,NULL
+nace_r2,C266,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",3,C26
+nace_r2,C2660,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",4,C266
+nace_r2,C267,Manufacture of optical instruments and photographic equipment,3,C26
+nace_r2,C2670,Manufacture of optical instruments and photographic equipment,4,C267
+nace_r2,C268,Manufacture of magnetic and optical media,3,C26
+nace_r2,C2680,Manufacture of magnetic and optical media,4,C268
+nace_r2,C26_C27,"Manufacture of computer, electronic and optical products; manufacture of electrical equipment",0,NULL
+nace_r2,C27,Manufacture of electrical equipment,2,C
+nace_r2,C271,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",3,C27
+nace_r2,C2711,"Manufacture of electric motors, generators and transformers",4,C271
+nace_r2,C2712,Manufacture of electricity distribution and control apparatus,4,C271
+nace_r2,C272,Manufacture of batteries and accumulators,3,C27
+nace_r2,C2720,Manufacture of batteries and accumulators,4,C272
+nace_r2,C273,Manufacture of wiring and wiring devices,3,C27
+nace_r2,C2731,Manufacture of fibre optic cables,4,C273
+nace_r2,C2732,Manufacture of other electronic and electric wires and cables,4,C273
+nace_r2,C2733,Manufacture of wiring devices,4,C273
+nace_r2,C274,Manufacture of electric lighting equipment,3,C27
+nace_r2,C2740,Manufacture of electric lighting equipment,4,C274
+nace_r2,C275,Manufacture of domestic appliances,3,C27
+nace_r2,C2751,Manufacture of electric domestic appliances,4,C275
+nace_r2,C2752,Manufacture of non-electric domestic appliances,4,C275
+nace_r2,C279,Manufacture of other electrical equipment,3,C27
+nace_r2,C2790,Manufacture of other electrical equipment,4,C279
+nace_r2,C27_C28,"Manufacture of electrical equipment, machinery and equipment n.e.c.",0,NULL
+nace_r2,C28,Manufacture of machinery and equipment n.e.c.,2,C
+nace_r2,C281,Manufacture of general-purpose machinery,3,C28
+nace_r2,C2811,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",4,C281
+nace_r2,C2812,Manufacture of fluid power equipment,4,C281
+nace_r2,C2813,Manufacture of other pumps and compressors,4,C281
+nace_r2,C2814,Manufacture of other taps and valves,4,C281
+nace_r2,C2815,"Manufacture of bearings, gears, gearing and driving elements",4,C281
+nace_r2,C282,Manufacture of other general-purpose machinery,3,C28
+nace_r2,C2821,"Manufacture of ovens, furnaces and furnace burners",4,C282
+nace_r2,C2822,Manufacture of lifting and handling equipment,4,C282
+nace_r2,C2823,Manufacture of office machinery and equipment (except computers and peripheral equipment),4,C282
+nace_r2,C2824,Manufacture of power-driven hand tools,4,C282
+nace_r2,C2825,Manufacture of non-domestic cooling and ventilation equipment,4,C282
+nace_r2,C2829,Manufacture of other general-purpose machinery n.e.c.,4,C282
+nace_r2,C283,Manufacture of agricultural and forestry machinery,3,C28
+nace_r2,C2830,Manufacture of agricultural and forestry machinery,4,C283
+nace_r2,C284,Manufacture of metal forming machinery and machine tools,3,C28
+nace_r2,C2841,Manufacture of metal forming machinery,4,C284
+nace_r2,C2849,Manufacture of other machine tools,4,C284
+nace_r2,C289,Manufacture of other special-purpose machinery,3,C28
+nace_r2,C2891,Manufacture of machinery for metallurgy,4,C289
+nace_r2,C2892,"Manufacture of machinery for mining, quarrying and construction",4,C289
+nace_r2,C2893,"Manufacture of machinery for food, beverage and tobacco processing",4,C289
+nace_r2,C2894,"Manufacture of machinery for textile, apparel and leather production",4,C289
+nace_r2,C2895,Manufacture of machinery for paper and paperboard production,4,C289
+nace_r2,C2896,Manufacture of plastics and rubber machinery,4,C289
+nace_r2,C2899,Manufacture of other special-purpose machinery n.e.c.,4,C289
+nace_r2,C29,"Manufacture of motor vehicles, trailers and semi-trailers",2,C
+nace_r2,C291,Manufacture of motor vehicles,3,C29
+nace_r2,C2910,Manufacture of motor vehicles,4,C291
+nace_r2,C292,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,3,C29
+nace_r2,C2920,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,4,C292
+nace_r2,C293,Manufacture of parts and accessories for motor vehicles,3,C29
+nace_r2,C2931,Manufacture of electrical and electronic equipment for motor vehicles,4,C293
+nace_r2,C2932,Manufacture of other parts and accessories for motor vehicles,4,C293
+nace_r2,C29_C30,"Manufacture of motor vehicles, trailers, semi-trailers and of other transport equipment",0,NULL
+nace_r2,C30,Manufacture of other transport equipment,2,C
+nace_r2,C301,Building of ships and boats,3,C30
+nace_r2,C3011,Building of ships and floating structures,4,C301
+nace_r2,C3012,Building of pleasure and sporting boats,4,C301
+nace_r2,C302,Manufacture of railway locomotives and rolling stock,3,C30
+nace_r2,C3020,Manufacture of railway locomotives and rolling stock,4,C302
+nace_r2,C303,Manufacture of air and spacecraft and related machinery,3,C30
+nace_r2,C3030,Manufacture of air and spacecraft and related machinery,4,C303
+nace_r2,C304,Manufacture of military fighting vehicles,3,C30
+nace_r2,C3040,Manufacture of military fighting vehicles,4,C304
+nace_r2,C309,Manufacture of transport equipment n.e.c.,3,C30
+nace_r2,C3091,Manufacture of motorcycles,4,C309
+nace_r2,C3092,Manufacture of bicycles and invalid carriages,4,C309
+nace_r2,C3099,Manufacture of other transport equipment n.e.c.,4,C309
+nace_r2,C31,Manufacture of furniture,2,C
+nace_r2,C31-C33,"Manufacture of furniture; jewellery, musical instruments, toys; repair and installation of machinery and equipment",0,NULL
+nace_r2,C310,Manufacture of furniture,3,C31
+nace_r2,C3101,Manufacture of office and shop furniture,4,C310
+nace_r2,C3102,Manufacture of kitchen furniture,4,C310
+nace_r2,C3103,Manufacture of mattresses,4,C310
+nace_r2,C3109,Manufacture of other furniture,4,C310
+nace_r2,C31_C32,Manufacture of furniture; other manufacturing,0,NULL
+nace_r2,C32,Other manufacturing,2,C
+nace_r2,C321,"Manufacture of jewellery, bijouterie and related articles",3,C32
+nace_r2,C3211,Striking of coins,4,C321
+nace_r2,C3212,Manufacture of jewellery and related articles,4,C321
+nace_r2,C3213,Manufacture of imitation jewellery and related articles,4,C321
+nace_r2,C322,Manufacture of musical instruments,3,C32
+nace_r2,C3220,Manufacture of musical instruments,4,C322
+nace_r2,C323,Manufacture of sports goods,3,C32
+nace_r2,C3230,Manufacture of sports goods,4,C323
+nace_r2,C324,Manufacture of games and toys,3,C32
+nace_r2,C3240,Manufacture of games and toys,4,C324
+nace_r2,C325,Manufacture of medical and dental instruments and supplies,3,C32
+nace_r2,C3250,Manufacture of medical and dental instruments and supplies,4,C325
+nace_r2,C329,Manufacturing n.e.c.,3,C32
+nace_r2,C3291,Manufacture of brooms and brushes,4,C329
+nace_r2,C3299,Other manufacturing n.e.c.,4,C329
+nace_r2,C32_X_C325,Other manufacturing except medical and dental instruments and supplies,0,NULL
+nace_r2,C33,Repair and installation of machinery and equipment,2,C
+nace_r2,C331,"Repair of fabricated metal products, machinery and equipment",3,C33
+nace_r2,C3311,Repair of fabricated metal products,4,C331
+nace_r2,C3312,Repair of machinery,4,C331
+nace_r2,C3313,Repair of electronic and optical equipment,4,C331
+nace_r2,C3314,Repair of electrical equipment,4,C331
+nace_r2,C3315,Repair and maintenance of ships and boats,4,C331
+nace_r2,C3316,Repair and maintenance of aircraft and spacecraft,4,C331
+nace_r2,C3317,Repair and maintenance of other transport equipment,4,C331
+nace_r2,C3319,Repair of other equipment,4,C331
+nace_r2,C332,Installation of industrial machinery and equipment,3,C33
+nace_r2,C3320,Installation of industrial machinery and equipment,4,C332
+nace_r2,CH_INV_PA,Changes in inventories and produced assets,0,NULL
+nace_r2,CLT,Cultural and creative sectors - total,0,NULL
+nace_r2,CLT_S,Cultural and creative sectors - services,0,NULL
+nace_r2,CRA,Computer related services,0,NULL
+nace_r2,C_CL,Manufacturing - for cooling purposes,0,NULL
+nace_r2,C_D,"Manufacturing; electricity, gas, steam and air conditioning supply",0,NULL
+nace_r2,C_HTC,High-technology manufacturing,0,NULL
+nace_r2,C_HTC_M,Medium high-technology manufacturing,0,NULL
+nace_r2,C_HTC_MH,High and medium high-technology manufacturing,0,NULL
+nace_r2,C_ICT,ICT manufacturing,0,NULL
+nace_r2,C_LTC,Low-technology manufacturing,0,NULL
+nace_r2,C_LTC_LM,Low and medium low-technology manufacturing,0,NULL
+nace_r2,C_LTC_M,Medium low-technology manufacturing,0,NULL
+nace_r2,C_MET,"Manufacture of metal and machinery products, except electrical equipment",0,NULL
+nace_r2,C_ORD,"Manufacturing, for new orders",0,NULL
+nace_r2,C_ORD_X_C30,"Manufacturing, for new orders (except heavy transport equipment)",0,NULL
+nace_r2,C_OTH,"Other manufacturing (C15, C23, C27, C31, C32, C33)",0,NULL
+nace_r2,C_TXW,"Manufacture of textiles, wearing apparel, wood and paper products; printing and reproduction",0,NULL
+nace_r2,C_X_STEEL,Manufacturing (except steel and building of ships and boats),0,NULL
+nace_r2,D,"Electricity, gas, steam and air conditioning supply",1,NULL
+nace_r2,D-F,"Electricity, gas, steam and air conditioning supply; water supply and construction",0,NULL
+nace_r2,D35,"Electricity, gas, steam and air conditioning supply",2,D
+nace_r2,D351,"Electric power generation, transmission and distribution",3,D35
+nace_r2,D3511,Production of electricity,4,D351
+nace_r2,D3511_D3513,Production and distribution of electricity,0,NULL
+nace_r2,D3511_D3513_CL,Production and distribution of electricity - for cooling purposes,0,NULL
+nace_r2,D3512,Transmission of electricity,4,D351
+nace_r2,D3513,Distribution of electricity,4,D351
+nace_r2,D3514,Trade of electricity,4,D351
+nace_r2,D352,Manufacture of gas; distribution of gaseous fuels through mains,3,D35
+nace_r2,D3521,Manufacture of gas,4,D352
+nace_r2,D3522,Distribution of gaseous fuels through mains,4,D352
+nace_r2,D3523,Trade of gas through mains,4,D352
+nace_r2,D353,Steam and air conditioning supply,3,D35
+nace_r2,D3530,Steam and air conditioning supply,4,D353
+nace_r2,D35_E36,"Electricity, gas, steam and air conditioning supply; water collection, treatment and supply",0,NULL
+nace_r2,DATAC,Data centres activities,0,NULL
+nace_r2,D_E,"Electricity, gas, steam and air conditioning supply; water supply; sewerage, waste management and remediation activities",0,NULL
+nace_r2,E,"Water supply; sewerage, waste management and remediation activities",1,NULL
+nace_r2,E36,"Water collection, treatment and supply",2,E
+nace_r2,E360,"Water collection, treatment and supply",3,E36
+nace_r2,E3600,"Water collection, treatment and supply",4,E360
+nace_r2,E36_E37,"Water collection, treatment and supply; sewerage",0,NULL
+nace_r2,E36_E37_E39,"Water collection, treatment and supply; sewerage; remediation activities and other waste management services",0,NULL
+nace_r2,E37,Sewerage,2,E
+nace_r2,E37-E39,"Sewerage, waste management, remediation activities",0,NULL
+nace_r2,E370,Sewerage,3,E37
+nace_r2,E3700,Sewerage,4,E370
+nace_r2,E38,"Waste collection, treatment and disposal activities; materials recovery",2,E
+nace_r2,E381,Waste collection,3,E38
+nace_r2,E3811,Collection of non-hazardous waste,4,E381
+nace_r2,E3812,Collection of hazardous waste,4,E381
+nace_r2,E382,Waste treatment and disposal,3,E38
+nace_r2,E3821,Treatment and disposal of non-hazardous waste,4,E382
+nace_r2,E3822,Treatment and disposal of hazardous waste,4,E382
+nace_r2,E383,Materials recovery,3,E38
+nace_r2,E3831,Dismantling of wrecks,4,E383
+nace_r2,E3832,Recovery of sorted materials,4,E383
+nace_r2,E38_E39,"Waste collection, treatment and disposal activities; materials recovery; remediation activities and other waste management services",0,NULL
+nace_r2,E39,Remediation activities and other waste management services,2,E
+nace_r2,E390,Remediation activities and other waste management services,3,E39
+nace_r2,E3900,Remediation activities and other waste management services,4,E390
+nace_r2,ENV,Environment,0,NULL
+nace_r2,EP_BSN,"Business sector total (mainly all NACE activities except E37, E38.1, E38.2, E39 and O)",0,NULL
+nace_r2,EP_BUS,"Business sector total (mainly all NACE activities except E37, E38.1, E38.2, E39 and O)",0,NULL
+nace_r2,EP_GOV,General government,0,NULL
+nace_r2,EP_HH,Households,0,NULL
+nace_r2,EP_NRES,Non-residents,0,NULL
+nace_r2,EP_OTH,"Other business sectors (mainly E38.3, F41 to U except O)",0,NULL
+nace_r2,EP_SPE,"Private and public specialist and secondary producers of environmental protection services (mainly E37, E38.1, E38.2 and E39)",0,NULL
+nace_r2,F,Construction,1,NULL
+nace_r2,F-N_X_K,"Construction, services of the business economy except financial and insurance activities",0,NULL
+nace_r2,F41,Construction of buildings,2,F
+nace_r2,F411,Development of building projects,3,F41
+nace_r2,F4110,Development of building projects,4,F411
+nace_r2,F412,Construction of residential and non-residential buildings,3,F41
+nace_r2,F4120,Construction of residential and non-residential buildings,4,F412
+nace_r2,F41_F43,Construction of buildings and specialised construction activities,0,NULL
+nace_r2,F42,Civil engineering,2,F
+nace_r2,F421,Construction of roads and railways,3,F42
+nace_r2,F4211,Construction of roads and motorways,4,F421
+nace_r2,F4212,Construction of railways and underground railways,4,F421
+nace_r2,F4213,Construction of bridges and tunnels,4,F421
+nace_r2,F422,Construction of utility projects,3,F42
+nace_r2,F4221,Construction of utility projects for fluids,4,F422
+nace_r2,F4222,Construction of utility projects for electricity and telecommunications,4,F422
+nace_r2,F429,Construction of other civil engineering projects,3,F42
+nace_r2,F4291,Construction of water projects,4,F429
+nace_r2,F4299,Construction of other civil engineering projects n.e.c.,4,F429
+nace_r2,F43,Specialised construction activities,2,F
+nace_r2,F431,Demolition and site preparation,3,F43
+nace_r2,F4311,Demolition,4,F431
+nace_r2,F4312,Site preparation,4,F431
+nace_r2,F4313,Test drilling and boring,4,F431
+nace_r2,F432,"Electrical, plumbing and other construction installation activities",3,F43
+nace_r2,F4321,Electrical installation,4,F432
+nace_r2,F4322,"Plumbing, heat and air-conditioning installation",4,F432
+nace_r2,F4329,Other construction installation,4,F432
+nace_r2,F433,Building completion and finishing,3,F43
+nace_r2,F4331,Plastering,4,F433
+nace_r2,F4332,Joinery installation,4,F433
+nace_r2,F4333,Floor and wall covering,4,F433
+nace_r2,F4334,Painting and glazing,4,F433
+nace_r2,F4339,Other building completion and finishing,4,F433
+nace_r2,F439,Other specialised construction activities,3,F43
+nace_r2,F4391,Roofing activities,4,F439
+nace_r2,F4399,Other specialised construction activities n.e.c.,4,F439
+nace_r2,FDI,All FDI activities,0,NULL
+nace_r2,F_CC1,Buildings,0,NULL
+nace_r2,F_CC11,Residential buildings,0,NULL
+nace_r2,F_CC111,One-dwelling buildings,0,NULL
+nace_r2,F_CC112,Two- and more dwelling buildings,0,NULL
+nace_r2,F_CC113,Residences for communities,0,NULL
+nace_r2,F_CC11_X_CC113,"Residential buildings, except residences for communities",0,NULL
+nace_r2,F_CC12,Non-residential buildings,0,NULL
+nace_r2,F_CC122,Office buildings,0,NULL
+nace_r2,F_CC12_X_CC122,"Non-residential buildings, except office buildings",0,NULL
+nace_r2,F_CC2,Civil engineering works,0,NULL
+nace_r2,G,Wholesale and retail trade; repair of motor vehicles and motorcycles,1,NULL
+nace_r2,G-I,"Wholesale and retail trade, transport, accommodation and food service activities",0,NULL
+nace_r2,G-I_K_L_N_Q-U,"Services (except information and communication, professional, scientific and technical activities, public administration and defence; compulsory social security and education)",0,NULL
+nace_r2,G-I_L_N,"Wholesale and retail trade; transport, accommodation and food service, real estate and administrative activities",0,NULL
+nace_r2,G-J,Wholesale and retail trade; transport; accommodation and food service activities; information and communication,0,NULL
+nace_r2,G-N,Services of the business economy,0,NULL
+nace_r2,G-N_STS,Services required by STS regulation,0,NULL
+nace_r2,G-N_STS_X_G47,Services required by STS regulation (except retail trade and repair),0,NULL
+nace_r2,G-N_X_K,Services of the business economy (except financial and insurance activities),0,NULL
+nace_r2,G-N_X_K642,Services of the business economy except activities of holding companies,0,NULL
+nace_r2,G-S,Services (except activities of households as employers and extra-territorial organisations and bodies),0,NULL
+nace_r2,G-S_X_O,"Services (except public administration, defense, compulsory social security, activities of households as employers and extra-territorial organisations and bodies)",0,NULL
+nace_r2,G-S_X_O_S94,"Services (except public administration, defence, compulsory social security, activities of membership organisations, households as employers and extra-territorial organisations and bodies)",0,NULL
+nace_r2,G-S_X_S94,Services (except activities of membership organisations),0,NULL
+nace_r2,G-T,Services (except extra-territorial organisations and bodies),0,NULL
+nace_r2,G-U,Services,0,NULL
+nace_r2,G-U_HTC,High-technology services,0,NULL
+nace_r2,G-U_ICT,ICT services,0,NULL
+nace_r2,G-U_X_G4677,Services (except wholesale of waste and scrap),0,NULL
+nace_r2,G-U_X_H,Services (except transportation and storage),0,NULL
+nace_r2,G-U_X_H49-H51,Services (except land transport and transport via pipelines; water transport; air transport),0,NULL
+nace_r2,G45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2,G
+nace_r2,G45-S951_X_K,"Services, without financial sector",0,NULL
+nace_r2,G451,Sale of motor vehicles,3,G45
+nace_r2,G4511,Sale of cars and light motor vehicles,4,G451
+nace_r2,G4519,Sale of other motor vehicles,4,G451
+nace_r2,G452,Maintenance and repair of motor vehicles,3,G45
+nace_r2,G4520,Maintenance and repair of motor vehicles,4,G452
+nace_r2,G453,Sale of motor vehicle parts and accessories,3,G45
+nace_r2,G4531,Wholesale trade of motor vehicle parts and accessories,4,G453
+nace_r2,G4532,Retail trade of motor vehicle parts and accessories,4,G453
+nace_r2,G454,"Sale, maintenance and repair of motorcycles and related parts and accessories",3,G45
+nace_r2,G4540,"Sale, maintenance and repair of motorcycles and related parts and accessories",4,G454
+nace_r2,G45_X_G452,Sale of motor vehicles; sale and repair of motorcycles,0,NULL
+nace_r2,G46,"Wholesale trade, except of motor vehicles and motorcycles",2,G
+nace_r2,G46-M71_INN,Innovation core services activities (Com.Reg.1450/2004),0,NULL
+nace_r2,G46-M73_INN,Services covered by CIS regulation,0,NULL
+nace_r2,G461,Wholesale on a fee or contract basis,3,G46
+nace_r2,G4611,"Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods",4,G461
+nace_r2,G4612,"Agents involved in the sale of fuels, ores, metals and industrial chemicals",4,G461
+nace_r2,G4613,Agents involved in the sale of timber and building materials,4,G461
+nace_r2,G4614,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft",4,G461
+nace_r2,G4615,"Agents involved in the sale of furniture, household goods, hardware and ironmongery",4,G461
+nace_r2,G4616,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",4,G461
+nace_r2,G4617,"Agents involved in the sale of food, beverages and tobacco",4,G461
+nace_r2,G4618,Agents specialised in the sale of other particular products,4,G461
+nace_r2,G4619,Agents involved in the sale of a variety of goods,4,G461
+nace_r2,G462,Wholesale of agricultural raw materials and live animals,3,G46
+nace_r2,G4621,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds",4,G462
+nace_r2,G4622,Wholesale of flowers and plants,4,G462
+nace_r2,G4623,Wholesale of live animals,4,G462
+nace_r2,G4624,"Wholesale of hides, skins and leather",4,G462
+nace_r2,G463,"Wholesale of food, beverages and tobacco",3,G46
+nace_r2,G4631,Wholesale of fruit and vegetables,4,G463
+nace_r2,G4632,Wholesale of meat and meat products,4,G463
+nace_r2,G4633,"Wholesale of dairy products, eggs and edible oils and fats",4,G463
+nace_r2,G4634,Wholesale of beverages,4,G463
+nace_r2,G4635,Wholesale of tobacco products,4,G463
+nace_r2,G4636,Wholesale of sugar and chocolate and sugar confectionery,4,G463
+nace_r2,G4637,"Wholesale of coffee, tea, cocoa and spices",4,G463
+nace_r2,G4638,"Wholesale of other food, including fish, crustaceans and molluscs",4,G463
+nace_r2,G4639,"Non-specialised wholesale of food, beverages and tobacco",4,G463
+nace_r2,G464,Wholesale of household goods,3,G46
+nace_r2,G4641,Wholesale of textiles,4,G464
+nace_r2,G4642,Wholesale of clothing and footwear,4,G464
+nace_r2,G4643,Wholesale of electrical household appliances,4,G464
+nace_r2,G4644,Wholesale of china and glassware and cleaning materials,4,G464
+nace_r2,G4645,Wholesale of perfume and cosmetics,4,G464
+nace_r2,G4646,Wholesale of pharmaceutical goods,4,G464
+nace_r2,G4647,"Wholesale of furniture, carpets and lighting equipment",4,G464
+nace_r2,G4648,Wholesale of watches and jewellery,4,G464
+nace_r2,G4649,Wholesale of other household goods,4,G464
+nace_r2,G465,Wholesale of information and communication equipment,3,G46
+nace_r2,G4651,"Wholesale of computers, computer peripheral equipment and software",4,G465
+nace_r2,G4652,Wholesale of electronic and telecommunications equipment and parts,4,G465
+nace_r2,G466,"Wholesale of other machinery, equipment and supplies",3,G46
+nace_r2,G4661,"Wholesale of agricultural machinery, equipment and supplies",4,G466
+nace_r2,G4662,Wholesale of machine tools,4,G466
+nace_r2,G4663,"Wholesale of mining, construction and civil engineering machinery",4,G466
+nace_r2,G4664,Wholesale of machinery for the textile industry and of sewing and knitting machines,4,G466
+nace_r2,G4665,Wholesale of office furniture,4,G466
+nace_r2,G4666,Wholesale of other office machinery and equipment,4,G466
+nace_r2,G4669,Wholesale of other machinery and equipment,4,G466
+nace_r2,G467,Other specialised wholesale,3,G46
+nace_r2,G4671,"Wholesale of solid, liquid and gaseous fuels and related products",4,G467
+nace_r2,G4672,Wholesale of metals and metal ores,4,G467
+nace_r2,G4673,"Wholesale of wood, construction materials and sanitary equipment",4,G467
+nace_r2,G4674,"Wholesale of hardware, plumbing and heating equipment and supplies",4,G467
+nace_r2,G4675,Wholesale of chemical products,4,G467
+nace_r2,G4676,Wholesale of other intermediate products,4,G467
+nace_r2,G4677,Wholesale of waste and scrap,4,G467
+nace_r2,G469,Non-specialised wholesale trade,3,G46
+nace_r2,G4690,Non-specialised wholesale trade,4,G469
+nace_r2,G46_G47_FOOD,Retail and other distribution of food,0,NULL
+nace_r2,G46_ICT,ICT wholesale,0,NULL
+nace_r2,G47,"Retail trade, except of motor vehicles and motorcycles",2,G
+nace_r2,G471,Retail sale in non-specialised stores,3,G47
+nace_r2,G4711,"Retail sale in non-specialised stores with food, beverages or tobacco predominating",4,G471
+nace_r2,G4719,Other retail sale in non-specialised stores,4,G471
+nace_r2,G472,"Retail sale of food, beverages and tobacco in specialised stores",3,G47
+nace_r2,G4721,Retail sale of fruit and vegetables in specialised stores,4,G472
+nace_r2,G4722,Retail sale of meat and meat products in specialised stores,4,G472
+nace_r2,G4723,"Retail sale of fish, crustaceans and molluscs in specialised stores",4,G472
+nace_r2,G4724,"Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores",4,G472
+nace_r2,G4725,Retail sale of beverages in specialised stores,4,G472
+nace_r2,G4726,Retail sale of tobacco products in specialised stores,4,G472
+nace_r2,G4729,Other retail sale of food in specialised stores,4,G472
+nace_r2,G473,Retail sale of automotive fuel in specialised stores,3,G47
+nace_r2,G4730,Retail sale of automotive fuel in specialised stores,4,G473
+nace_r2,G474,Retail sale of information and communication equipment in specialised stores,3,G47
+nace_r2,G4741,"Retail sale of computers, peripheral units and software in specialised stores",4,G474
+nace_r2,G4742,Retail sale of telecommunications equipment in specialised stores,4,G474
+nace_r2,G4743,Retail sale of audio and video equipment in specialised stores,4,G474
+nace_r2,G475,Retail sale of other household equipment in specialised stores,3,G47
+nace_r2,G4751,Retail sale of textiles in specialised stores,4,G475
+nace_r2,G4752,"Retail sale of hardware, paints and glass in specialised stores",4,G475
+nace_r2,G4753,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores",4,G475
+nace_r2,G4754,Retail sale of electrical household appliances in specialised stores,4,G475
+nace_r2,G4759,"Retail sale of furniture, lighting equipment and other household articles in specialised stores",4,G475
+nace_r2,G476,Retail sale of cultural and recreation goods in specialised stores,3,G47
+nace_r2,G4761,Retail sale of books in specialised stores,4,G476
+nace_r2,G4762,Retail sale of newspapers and stationery in specialised stores,4,G476
+nace_r2,G4763,Retail sale of music and video recordings in specialised stores,4,G476
+nace_r2,G4764,Retail sale of sporting equipment in specialised stores,4,G476
+nace_r2,G4765,Retail sale of games and toys in specialised stores,4,G476
+nace_r2,G477,Retail sale of other goods in specialised stores,3,G47
+nace_r2,G4771,Retail sale of clothing in specialised stores,4,G477
+nace_r2,G4772,Retail sale of footwear and leather goods in specialised stores,4,G477
+nace_r2,G4773,Dispensing chemist in specialised stores,4,G477
+nace_r2,G4774,Retail sale of medical and orthopaedic goods in specialised stores,4,G477
+nace_r2,G4775,Retail sale of cosmetic and toilet articles in specialised stores,4,G477
+nace_r2,G4776,"Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores",4,G477
+nace_r2,G4777,Retail sale of watches and jewellery in specialised stores,4,G477
+nace_r2,G4778,Other retail sale of new goods in specialised stores,4,G477
+nace_r2,G4779,Retail sale of second-hand goods in stores,4,G477
+nace_r2,G478,Retail sale via stalls and markets,3,G47
+nace_r2,G4781,"Retail sale via stalls and markets of food, beverages and tobacco products",4,G478
+nace_r2,G4782,"Retail sale via stalls and markets of textiles, clothing and footwear",4,G478
+nace_r2,G4789,Retail sale via stalls and markets of other goods,4,G478
+nace_r2,G479,"Retail trade not in stores, stalls or markets",3,G47
+nace_r2,G4791,Retail sale via mail order houses or via Internet,4,G479
+nace_r2,G4799,"Other retail sale not in stores, stalls or markets",4,G479
+nace_r2,G47_FOOD,"Retail sale of food, beverages and tobacco",0,NULL
+nace_r2,G47_NFOOD,Retail sale of non-food products (including fuel),0,NULL
+nace_r2,G47_NFOOD_X_G473,Retail sale of non-food products (except fuel),0,NULL
+nace_r2,G47_NF_CLTH,"Retail sale of textiles, clothing, footware and leather goods in specialised stores",0,NULL
+nace_r2,G47_NF_HLTH,"Dispensing chemist; retail sale of medical and orthopaedic goods, cosmetic and toilet articles in specialised stores",0,NULL
+nace_r2,G47_NF_OTH,"Retail sale of information and communication equipment; other household equipment (except textiles); cultural and recreation goods, etc. in specialised stores",0,NULL
+nace_r2,G47_NF_OTH1,"Retail sale of computers, peripheral units and software; telecommunications equipment, etc. in specialised stores",0,NULL
+nace_r2,G47_NF_OTH2,"Retail sale of audio and video equipment; hardware, paints and glass; electrical household appliances, etc. in specialised stores",0,NULL
+nace_r2,G47_X_G471,"Retail trade except of motor vehicles and motorcycles, except retail sale in non-specialised stores",0,NULL
+nace_r2,G47_X_G473,"Retail trade, except of motor vehicles, motorcyles and fuel",0,NULL
+nace_r2,G_A017_B0721,"Wholesale and retail trade (including hunting, mining of uranium)",0,NULL
+nace_r2,G_I_T,Wholesale and retail trade; accommodation and food service activities; activities of households as employers,0,NULL
+nace_r2,H,Transportation and storage,1,NULL
+nace_r2,H-N,Services of the business economy (except trade),0,NULL
+nace_r2,H-N_STS,Services required by STS regulation (except section G),0,NULL
+nace_r2,H-N_X_K,Services of the business economy (except trade and financial and insurance activities),0,NULL
+nace_r2,H49,Land transport and transport via pipelines,2,H
+nace_r2,H49-H51,Land transport and transport via pipelines; water transport; air transport,0,NULL
+nace_r2,H49-H51_NTRA_X_H495,"Land transport (except transport via pipelines), water transport and air transport - non transport activities",0,NULL
+nace_r2,H49-H52_N79,"Land transport, transport via pipelines, water transport, air transport, warehousing and support activities for transportation; travel agency, tour operator and other reservation service and related activities",0,NULL
+nace_r2,H491,"Passenger rail transport, interurban",3,H49
+nace_r2,H4910,"Passenger rail transport, interurban",4,H491
+nace_r2,H491_H492,Railways,0,NULL
+nace_r2,H492,Freight rail transport,3,H49
+nace_r2,H4920,Freight rail transport,4,H492
+nace_r2,H493,Other passenger land transport,3,H49
+nace_r2,H4931,Urban and suburban passenger land transport,4,H493
+nace_r2,H4932,Taxi operation,4,H493
+nace_r2,H4939,Other passenger land transport n.e.c.,4,H493
+nace_r2,H493_H494,Other passenger land transport; freight transport by road and removal services,0,NULL
+nace_r2,H494,Freight transport by road and removal services,3,H49
+nace_r2,H494-N812_STS,Services required by STS regulation (for the service producer prices indicator),0,NULL
+nace_r2,H4941,Freight transport by road,4,H494
+nace_r2,H4942,Removal services,4,H494
+nace_r2,H495,Transport via pipeline,3,H49
+nace_r2,H4950,Transport via pipeline,4,H495
+nace_r2,H50,Water transport,2,H
+nace_r2,H501,Sea and coastal passenger water transport,3,H50
+nace_r2,H5010,Sea and coastal passenger water transport,4,H501
+nace_r2,H501_H502,Sea and coastal water transport,0,NULL
+nace_r2,H502,Sea and coastal freight water transport,3,H50
+nace_r2,H5020,Sea and coastal freight water transport,4,H502
+nace_r2,H503,Inland passenger water transport,3,H50
+nace_r2,H5030,Inland passenger water transport,4,H503
+nace_r2,H503_H504,Inland passenger and freight water transport,0,NULL
+nace_r2,H504,Inland freight water transport,3,H50
+nace_r2,H5040,Inland freight water transport,4,H504
+nace_r2,H51,Air transport,2,H
+nace_r2,H511,Passenger air transport,3,H51
+nace_r2,H5110,Passenger air transport,4,H511
+nace_r2,H512,Freight air transport and space transport,3,H51
+nace_r2,H5121,Freight air transport,4,H512
+nace_r2,H5122,Space transport,4,H512
+nace_r2,H51_I55_N79,"Air transport; accommodation; travel agency, tour operator and other reservation service and related activities",0,NULL
+nace_r2,H52,Warehousing and support activities for transportation,2,H
+nace_r2,H521,Warehousing and storage,3,H52
+nace_r2,H5210,Warehousing and storage,4,H521
+nace_r2,H522,Support activities for transportation,3,H52
+nace_r2,H5221,Service activities incidental to land transportation,4,H522
+nace_r2,H5222,Service activities incidental to water transportation,4,H522
+nace_r2,H5223,Service activities incidental to air transportation,4,H522
+nace_r2,H5224,Cargo handling,4,H522
+nace_r2,H5229,Other transportation support activities,4,H522
+nace_r2,H52_H53,Warehousing and support activities for transportation; postal and courier activities,0,NULL
+nace_r2,H52_STL,Street lighting,0,NULL
+nace_r2,H53,Postal and courier activities,2,H
+nace_r2,H531,Postal activities under universal service obligation,3,H53
+nace_r2,H5310,Postal activities under universal service obligation,4,H531
+nace_r2,H532,Other postal and courier activities,3,H53
+nace_r2,H5320,Other postal and courier activities,4,H532
+nace_r2,HH,Total activities by households,0,NULL
+nace_r2,HH_HEAT,Heating/cooling activities by households,0,NULL
+nace_r2,HH_HEAT_OTH,Heating/cooling and other activities by households,0,NULL
+nace_r2,HH_OTH,Other activities by households,0,NULL
+nace_r2,HH_TRA,Transport activities by households,0,NULL
+nace_r2,HH_WST,Waste from households,0,NULL
+nace_r2,HTC,High-technology sectors (high-technology manufacturing and knowledge-intensive high-technology services),0,NULL
+nace_r2,H_J,Transportation and storage; information and communication,0,NULL
+nace_r2,H_OTH,Other transport,0,NULL
+nace_r2,H_X_H491_H492,Transport (except railways),0,NULL
+nace_r2,H_X_H53,Transportation and storage except postal and courier activities,0,NULL
+nace_r2,I,Accommodation and food service activities,1,NULL
+nace_r2,I-U,"Services (except wholesale and retail trade, transportation and storage)",0,NULL
+nace_r2,I55,Accommodation,2,I
+nace_r2,I551,Hotels and similar accommodation,3,I55
+nace_r2,I551-I553,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",0,NULL
+nace_r2,I5510,Hotels and similar accommodation,4,I551
+nace_r2,I552,Holiday and other short-stay accommodation,3,I55
+nace_r2,I5520,Holiday and other short-stay accommodation,4,I552
+nace_r2,I552_I553,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",0,NULL
+nace_r2,I553,"Camping grounds, recreational vehicle parks and trailer parks",3,I55
+nace_r2,I5530,"Camping grounds, recreational vehicle parks and trailer parks",4,I553
+nace_r2,I559,Other accommodation,3,I55
+nace_r2,I5590,Other accommodation,4,I559
+nace_r2,I55_I56_N-S_FOOD,Restaurants and food services,0,NULL
+nace_r2,I56,Food and beverage service activities,2,I
+nace_r2,I561,Restaurants and mobile food service activities,3,I56
+nace_r2,I5610,Restaurants and mobile food service activities,4,I561
+nace_r2,I561_I563,Restaurants and mobile food and beverage service activities,0,NULL
+nace_r2,I562,Event catering and other food service activities,3,I56
+nace_r2,I5621,Event catering activities,4,I562
+nace_r2,I5629,Other food service activities,4,I562
+nace_r2,I563,Beverage serving activities,3,I56
+nace_r2,I5630,Beverage serving activities,4,I563
+nace_r2,ICT,Information and Communication Technology - total,0,NULL
+nace_r2,INF,Information sector,0,NULL
+nace_r2,I_L_O-U,"Accommodation and food service activities; real estate activities; public administration, defence; compulsory social security; education; human health and social work activities; other services",0,NULL
+nace_r2,I_X_I559_I562,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks; restaurants and mobile food and beverage service activities",0,NULL
+nace_r2,J,Information and communication,1,NULL
+nace_r2,J-N,"Information and communication; financial and insurance activities; real estate activities; professional, scientific and technical activities; administrative and support service activities",0,NULL
+nace_r2,J58,Publishing activities,2,J
+nace_r2,J58-J60,"Publishing, motion picture, video, television programme production; sound recording, programming and broadcasting activities",0,NULL
+nace_r2,J581,"Publishing of books, periodicals and other publishing activities",3,J58
+nace_r2,J5811,Book publishing,4,J581
+nace_r2,J5812,Publishing of directories and mailing lists,4,J581
+nace_r2,J5813,Publishing of newspapers,4,J581
+nace_r2,J5814,Publishing of journals and periodicals,4,J581
+nace_r2,J5819,Other publishing activities,4,J581
+nace_r2,J582,Software publishing,3,J58
+nace_r2,J5821,Publishing of computer games,4,J582
+nace_r2,J5829,Other software publishing,4,J582
+nace_r2,J58_J62_J63,"Publishing, computer programming and consultancy, information service activities",0,NULL
+nace_r2,J59,"Motion picture, video and television programme production, sound recording and music publishing activities",2,J
+nace_r2,J591,"Motion picture, video and television programme activities",3,J59
+nace_r2,J5911,"Motion picture, video and television programme production activities",4,J591
+nace_r2,J5912,"Motion picture, video and television programme post-production activities",4,J591
+nace_r2,J5913,"Motion picture, video and television programme distribution activities",4,J591
+nace_r2,J5914,Motion picture projection activities,4,J591
+nace_r2,J592,Sound recording and music publishing activities,3,J59
+nace_r2,J5920,Sound recording and music publishing activities,4,J592
+nace_r2,J59_J60,"Motion picture, video, television programme production; programming and broadcasting activities",0,NULL
+nace_r2,J60,Programming and broadcasting activities,2,J
+nace_r2,J601,Radio broadcasting,3,J60
+nace_r2,J6010,Radio broadcasting,4,J601
+nace_r2,J602,Television programming and broadcasting activities,3,J60
+nace_r2,J6020,Television programming and broadcasting activities,4,J602
+nace_r2,J61,Telecommunications,2,J
+nace_r2,J61-J63,"Telecommunications; computer programming, consultancy and related activities; information service activities",0,NULL
+nace_r2,J611,Wired telecommunications activities,3,J61
+nace_r2,J6110,Wired telecommunications activities,4,J611
+nace_r2,J612,Wireless telecommunications activities,3,J61
+nace_r2,J6120,Wireless telecommunications activities,4,J612
+nace_r2,J613,Satellite telecommunications activities,3,J61
+nace_r2,J6130,Satellite telecommunications activities,4,J613
+nace_r2,J619,Other telecommunications activities,3,J61
+nace_r2,J6190,Other telecommunications activities,4,J619
+nace_r2,J62,"Computer programming, consultancy and related activities",2,J
+nace_r2,J620,"Computer programming, consultancy and related activities",3,J62
+nace_r2,J6201,Computer programming activities,4,J620
+nace_r2,J6202,Computer consultancy activities,4,J620
+nace_r2,J6203,Computer facilities management activities,4,J620
+nace_r2,J6209,Other information technology and computer service activities,4,J620
+nace_r2,J62_J63,"Computer programming, consultancy, and information service activities",0,NULL
+nace_r2,J63,Information service activities,2,J
+nace_r2,J631,"Data processing, hosting and related activities; web portals",3,J63
+nace_r2,J6311,"Data processing, hosting and related activities",4,J631
+nace_r2,J6312,Web portals,4,J631
+nace_r2,J639,Other information service activities,3,J63
+nace_r2,J6391,News agency activities,4,J639
+nace_r2,J6399,Other information service activities n.e.c.,4,J639
+nace_r2,J_K,Information and communication; financial and insurance activities,0,NULL
+nace_r2,K,Financial and insurance activities,1,NULL
+nace_r2,K-N,"Financial and insurance activities; real estate activities; professional, scientific and technical activities; administrative and support service activities",0,NULL
+nace_r2,K-U,"Financial and insurance activities, real estate activities, professional, scientific and technical activities, administrative and support service activities, public administration and defence; compulsory social security, education, human health and social work activities, arts, entertainment and recreation, other service activities, activities of households as employers; undifferentiated goods- and services-producing activities of households for own use, activities of extraterritorial organisations and bodies",0,NULL
+nace_r2,K64,"Financial service activities, except insurance and pension funding",2,K
+nace_r2,K64-K66,Knowledge intensive financial services,0,NULL
+nace_r2,K641,Monetary intermediation,3,K64
+nace_r2,K6411,Central banking,4,K641
+nace_r2,K6419,Other monetary intermediation,4,K641
+nace_r2,K642,Activities of holding companies,3,K64
+nace_r2,K6420,Activities of holding companies,4,K642
+nace_r2,K643,"Trusts, funds and similar financial entities",3,K64
+nace_r2,K6430,"Trusts, funds and similar financial entities",4,K643
+nace_r2,K649,"Other financial service activities, except insurance and pension funding",3,K64
+nace_r2,K6491,Financial leasing,4,K649
+nace_r2,K6492,Other credit granting,4,K649
+nace_r2,K6499,"Other financial service activities, except insurance and pension funding n.e.c.",4,K649
+nace_r2,K64CRED,Total credit institutions,0,NULL
+nace_r2,K64_K65,"Financial service activities, insurance, reinsurance and pension funding, except compulsory social security",0,NULL
+nace_r2,K64_X_K642,"Financial service activities, except insurance, pension funding, activities of holding companies",0,NULL
+nace_r2,K65,"Insurance, reinsurance and pension funding, except compulsory social security",2,K
+nace_r2,K651,Insurance,3,K65
+nace_r2,K6511,Life insurance,4,K651
+nace_r2,K6512,Non-life insurance,4,K651
+nace_r2,K652,Reinsurance,3,K65
+nace_r2,K6520,Reinsurance,4,K652
+nace_r2,K653,Pension funding,3,K65
+nace_r2,K6530,Pension funding,4,K653
+nace_r2,K66,Activities auxiliary to financial services and insurance activities,2,K
+nace_r2,K661,"Activities auxiliary to financial services, except insurance and pension funding",3,K66
+nace_r2,K6611,Administration of financial markets,4,K661
+nace_r2,K6612,Security and commodity contracts brokerage,4,K661
+nace_r2,K6619,"Other activities auxiliary to financial services, except insurance and pension funding",4,K661
+nace_r2,K662,Activities auxiliary to insurance and pension funding,3,K66
+nace_r2,K6621,Risk and damage evaluation,4,K662
+nace_r2,K6622,Activities of insurance agents and brokers,4,K662
+nace_r2,K6629,Other activities auxiliary to insurance and pension funding,4,K662
+nace_r2,K663,Fund management activities,3,K66
+nace_r2,K6630,Fund management activities,4,K663
+nace_r2,KIA,Total knowledge-intensive activities,0,NULL
+nace_r2,KIABI,Knowledge-intensive activities - business industries,0,NULL
+nace_r2,KIABI_X_K_R90,Non-financial knowledge-intensive activities - business industries,0,NULL
+nace_r2,KIBS,Knowledge intensive business services,0,NULL
+nace_r2,KIS,Total knowledge-intensive services,0,NULL
+nace_r2,KIS_HTC,Knowledge-intensive high-technology services,0,NULL
+nace_r2,KIS_HTC_X_M72,Knowledge-intensive high-technology services required by STS regulation,0,NULL
+nace_r2,KIS_MKT,Knowledge-intensive market services,0,NULL
+nace_r2,KIS_MKT_OTH,Knowledge-intensive market services (except financial intermediation and high-technology services),0,NULL
+nace_r2,KIS_OTH,Other knowledge-intensive services,0,NULL
+nace_r2,K_L,Financial and insurance activities; real estate activities,0,NULL
+nace_r2,K_L_X_K642,Financial and insurance activities; real estate activities except activities of holding companies,0,NULL
+nace_r2,K_X_K642,Financial and insurance activities except activities of holding companies,0,NULL
+nace_r2,L,Real estate activities,1,NULL
+nace_r2,L-N_R_S,"Real estate activities; professional, scientific and technical activities; administrative and support service activities; arts, entertainment and recreation; other service activities",0,NULL
+nace_r2,L68,Real estate activities,2,L
+nace_r2,L681,Buying and selling of own real estate,3,L68
+nace_r2,L6810,Buying and selling of own real estate,4,L681
+nace_r2,L682,Renting and operating of own or leased real estate,3,L68
+nace_r2,L6820,Renting and operating of own or leased real estate,4,L682
+nace_r2,L683,Real estate activities on a fee or contract basis,3,L68
+nace_r2,L6831,Real estate agencies,4,L683
+nace_r2,L6832,Management of real estate on a fee or contract basis,4,L683
+nace_r2,L68A,Imputed rents of owner-occupied dwellings,0,NULL
+nace_r2,LKIS,Total less knowledge-intensive services,0,NULL
+nace_r2,LKIS_MKT,Less knowledge-intensive market services,0,NULL
+nace_r2,LKIS_MKT_STS,Less knowledge-intensive market services required by STS regulation,0,NULL
+nace_r2,LKIS_OTH,Other less knowledge-intensive services,0,NULL
+nace_r2,L_M,"Real estate activities; professional, scientific and technical activities",0,NULL
+nace_r2,M,"Professional, scientific and technical activities",1,NULL
+nace_r2,M69,Legal and accounting activities,2,M
+nace_r2,M69-M71,Legal and accounting activities; activities of head offices; management consultancy activities; architectural and engineering activities; technical testing and analysis,0,NULL
+nace_r2,M69-M74,"Legal and accounting activities; activities of head offices; management consultancy activities; architectural and engineering activities; technical testing and analysis; scientific research and development; advertising and market research; other professional, scientific and technical activities",0,NULL
+nace_r2,M691,Legal activities,3,M69
+nace_r2,M6910,Legal activities,4,M691
+nace_r2,M692,"Accounting, bookkeeping and auditing activities; tax consultancy",3,M69
+nace_r2,M6920,"Accounting, bookkeeping and auditing activities; tax consultancy",4,M692
+nace_r2,M69_M70,Legal and accounting activities; activities of head offices; management consultancy activities,0,NULL
+nace_r2,M69_M702,"Legal, accounting and management consultancy activities",0,NULL
+nace_r2,M70,Activities of head offices; management consultancy activities,2,M
+nace_r2,M701,Activities of head offices,3,M70
+nace_r2,M7010,Activities of head offices,4,M701
+nace_r2,M702,Management consultancy activities,3,M70
+nace_r2,M7021,Public relations and communication activities,4,M702
+nace_r2,M7022,Business and other management consultancy activities,4,M702
+nace_r2,M71,Architectural and engineering activities; technical testing and analysis,2,M
+nace_r2,M71-M73,Architectural and engineering activities; technical testing and analysis; scientific research and development; advertising and market research,0,NULL
+nace_r2,M711,Architectural and engineering activities and related technical consultancy,3,M71
+nace_r2,M7111,Architectural activities,4,M711
+nace_r2,M7112,Engineering activities and related technical consultancy,4,M711
+nace_r2,M712,Technical testing and analysis,3,M71
+nace_r2,M7120,Technical testing and analysis,4,M712
+nace_r2,M72,Scientific research and development,2,M
+nace_r2,M721,Research and experimental development on natural sciences and engineering,3,M72
+nace_r2,M7211,Research and experimental development on biotechnology,4,M721
+nace_r2,M7219,Other research and experimental development on natural sciences and engineering,4,M721
+nace_r2,M722,Research and experimental development on social sciences and humanities,3,M72
+nace_r2,M7220,Research and experimental development on social sciences and humanities,4,M722
+nace_r2,M73,Advertising and market research,2,M
+nace_r2,M73-M75,"Advertising and market research; other professional, scientific and technical activities; veterinary activities",0,NULL
+nace_r2,M731,Advertising,3,M73
+nace_r2,M7311,Advertising agencies,4,M731
+nace_r2,M7312,Media representation,4,M731
+nace_r2,M732,Market research and public opinion polling,3,M73
+nace_r2,M7320,Market research and public opinion polling,4,M732
+nace_r2,M74,"Other professional, scientific and technical activities",2,M
+nace_r2,M741,Specialised design activities,3,M74
+nace_r2,M7410,Specialised design activities,4,M741
+nace_r2,M742,Photographic activities,3,M74
+nace_r2,M7420,Photographic activities,4,M742
+nace_r2,M743,Translation and interpretation activities,3,M74
+nace_r2,M7430,Translation and interpretation activities,4,M743
+nace_r2,M749,"Other professional, scientific and technical activities n.e.c.",3,M74
+nace_r2,M7490,"Other professional, scientific and technical activities n.e.c.",4,M749
+nace_r2,M74_M75,"Other professional, scientific and technical activities; veterinary activities",0,NULL
+nace_r2,M75,Veterinary activities,2,M
+nace_r2,M750,Veterinary activities,3,M75
+nace_r2,M7500,Veterinary activities,4,M750
+nace_r2,MIG_CAG,MIG - capital goods,0,NULL
+nace_r2,MIG_CAG_ORD,"MIG - capital goods, for new orders",0,NULL
+nace_r2,MIG_COG,MIG - consumer goods,0,NULL
+nace_r2,MIG_COG_ORD,"MIG - consumer goods, for new orders",0,NULL
+nace_r2,MIG_COG_X_FOOD,"MIG - consumer goods (except food, beverages and tobacco)",0,NULL
+nace_r2,MIG_DCOG,MIG - durable consumer goods,0,NULL
+nace_r2,MIG_DCOG_ORD,"MIG - durable consumer goods, for new orders",0,NULL
+nace_r2,MIG_ING,MIG - intermediate goods,0,NULL
+nace_r2,MIG_ING_CAG,MIG - intermediate and capital goods,0,NULL
+nace_r2,MIG_ING_ORD,"MIG - intermediate goods, for new orders",0,NULL
+nace_r2,MIG_NDCOG,MIG - non-durable consumer goods,0,NULL
+nace_r2,MIG_NDCOG_ORD,"MIG - non-durable consumer goods, for new orders",0,NULL
+nace_r2,MIG_NRG,MIG - energy,0,NULL
+nace_r2,MIG_NRG_X_D_E,MIG - energy (except sections D and E),0,NULL
+nace_r2,MIG_NRG_X_E,MIG - energy (except section E),0,NULL
+nace_r2,MU_WST,Municipal waste,0,NULL
+nace_r2,M_N,"Professional, scientific and technical activities; administrative and support service activities",0,NULL
+nace_r2,M_S,"Professional, scientific and technical activities; other service activities",0,NULL
+nace_r2,M_STS,"Professional, scientific and technical activities required by STS regulation",0,NULL
+nace_r2,N,Administrative and support service activities,1,NULL
+nace_r2,N77,Rental and leasing activities,2,N
+nace_r2,N77-N82_X_N79,"Activities for rental and leasing, employment, security and investigation, services to buildings and landscape, office administrative, office support and other business support",0,NULL
+nace_r2,N771,Renting and leasing of motor vehicles,3,N77
+nace_r2,N7711,Renting and leasing of cars and light motor vehicles,4,N771
+nace_r2,N7712,Renting and leasing of trucks,4,N771
+nace_r2,N771_N7721,"Renting and leasing of motor vehicles, recreational and sports goods",0,NULL
+nace_r2,N772,Renting and leasing of personal and household goods,3,N77
+nace_r2,N7721,Renting and leasing of recreational and sports goods,4,N772
+nace_r2,N7722,Renting of video tapes and disks,4,N772
+nace_r2,N7729,Renting and leasing of other personal and household goods,4,N772
+nace_r2,N773,"Renting and leasing of other machinery, equipment and tangible goods",3,N77
+nace_r2,N7731,Renting and leasing of agricultural machinery and equipment,4,N773
+nace_r2,N7732,Renting and leasing of construction and civil engineering machinery and equipment,4,N773
+nace_r2,N7733,Renting and leasing of office machinery and equipment (including computers),4,N773
+nace_r2,N7734,Renting and leasing of water transport equipment,4,N773
+nace_r2,N7735,Renting and leasing of air transport equipment,4,N773
+nace_r2,N7739,"Renting and leasing of other machinery, equipment and tangible goods n.e.c.",4,N773
+nace_r2,N774,"Leasing of intellectual property and similar products, except copyrighted works",3,N77
+nace_r2,N7740,"Leasing of intellectual property and similar products, except copyrighted works",4,N774
+nace_r2,N78,Employment activities,2,N
+nace_r2,N78-N82,"Employment, travel agency, security and investigation, service and landscape, office administrative and support activities",0,NULL
+nace_r2,N781,Activities of employment placement agencies,3,N78
+nace_r2,N7810,Activities of employment placement agencies,4,N781
+nace_r2,N782,Temporary employment agency activities,3,N78
+nace_r2,N7820,Temporary employment agency activities,4,N782
+nace_r2,N783,Other human resources provision,3,N78
+nace_r2,N7830,Other human resources provision,4,N783
+nace_r2,N79,"Travel agency, tour operator and other reservation service and related activities",2,N
+nace_r2,N791,Travel agency and tour operator activities,3,N79
+nace_r2,N7911,Travel agency activities,4,N791
+nace_r2,N7912,Tour operator activities,4,N791
+nace_r2,N799,Other reservation service and related activities,3,N79
+nace_r2,N7990,Other reservation service and related activities,4,N799
+nace_r2,N80,Security and investigation activities,2,N
+nace_r2,N80-N82,"Security and investigation, service and landscape, office administrative and support activities",0,NULL
+nace_r2,N801,Private security activities,3,N80
+nace_r2,N8010,Private security activities,4,N801
+nace_r2,N802,Security systems service activities,3,N80
+nace_r2,N8020,Security systems service activities,4,N802
+nace_r2,N803,Investigation activities,3,N80
+nace_r2,N8030,Investigation activities,4,N803
+nace_r2,N81,Services to buildings and landscape activities,2,N
+nace_r2,N811,Combined facilities support activities,3,N81
+nace_r2,N8110,Combined facilities support activities,4,N811
+nace_r2,N812,Cleaning activities,3,N81
+nace_r2,N8121,General cleaning of buildings,4,N812
+nace_r2,N8122,Other building and industrial cleaning activities,4,N812
+nace_r2,N8129,Other cleaning activities,4,N812
+nace_r2,N813,Landscape service activities,3,N81
+nace_r2,N8130,Landscape service activities,4,N813
+nace_r2,N82,"Office administrative, office support and other business support activities",2,N
+nace_r2,N821,Office administrative and support activities,3,N82
+nace_r2,N8211,Combined office administrative service activities,4,N821
+nace_r2,N8219,"Photocopying, document preparation and other specialised office support activities",4,N821
+nace_r2,N822,Activities of call centres,3,N82
+nace_r2,N8220,Activities of call centres,4,N822
+nace_r2,N823,Organisation of conventions and trade shows,3,N82
+nace_r2,N8230,Organisation of conventions and trade shows,4,N823
+nace_r2,N829,Business support service activities n.e.c.,3,N82
+nace_r2,N8291,Activities of collection agencies and credit bureaus,4,N829
+nace_r2,N8292,Packaging activities,4,N829
+nace_r2,N8299,Other business support service activities n.e.c.,4,N829
+nace_r2,NAFT,"All NACE activities (except agriculture, fishing and transport) - non AFT",0,NULL
+nace_r2,NAL,Not allocated,0,NULL
+nace_r2,NAP,Not applicable,0,NULL
+nace_r2,NRG_FLOW,Energy flows over all activities,0,NULL
+nace_r2,NRP,No response,0,NULL
+nace_r2,NSP,Not specified,0,NULL
+nace_r2,N_STS,Administrative and support service activities required by STS regulation,0,NULL
+nace_r2,O,Public administration and defence; compulsory social security,1,NULL
+nace_r2,O-Q,"Public administration, defence, education, human health and social work activities",0,NULL
+nace_r2,O-R_U,"Public administration, defence, education, human health and social work activities; arts, entertainment and recreation; activities of extraterritorial organisations and bodies",0,NULL
+nace_r2,O-S,"Public administration and defence; compulsory social security; education; human health and social work activities; arts, entertainment and recreation; other service activities",0,NULL
+nace_r2,O-U,"Public administration and defence; compulsory social security; education; human health and social work activities; arts, entertainment and recreation, repair of household goods and other services",0,NULL
+nace_r2,O84,Public administration and defence; compulsory social security,2,O
+nace_r2,O841,Administration of the State and the economic and social policy of the community,3,O84
+nace_r2,O8411,General public administration activities,4,O841
+nace_r2,O8412,"Regulation of the activities of providing health care, education, cultural services and other social services, except social security",4,O841
+nace_r2,O8413,Regulation of and contribution to more efficient operation of businesses,4,O841
+nace_r2,O842,Provision of services to the community as a whole,3,O84
+nace_r2,O8421,Foreign affairs,4,O842
+nace_r2,O8422,Defence activities,4,O842
+nace_r2,O8423,Justice and judicial activities,4,O842
+nace_r2,O8424,Public order and safety activities,4,O842
+nace_r2,O8425,Fire service activities,4,O842
+nace_r2,O843,Compulsory social security activities,3,O84
+nace_r2,O8430,Compulsory social security activities,4,O843
+nace_r2,OTH,Other NACE activities,0,NULL
+nace_r2,O_P,Public administration and defence; compulsory social security and education,0,NULL
+nace_r2,O_T_U,Public administration; activities of households and of extraterritorial organisations,0,NULL
+nace_r2,O_U,Public administration; activities of extraterritorial organisations and bodies,0,NULL
+nace_r2,P,Education,1,NULL
+nace_r2,P-S,"Education; human health and social work activities; arts, entertainment and recreation; other service activities",0,NULL
+nace_r2,P-S_X_S94,Education; human health and social work activities; except activities of membership organisations,0,NULL
+nace_r2,P85,Education,2,P
+nace_r2,P851,Pre-primary education,3,P85
+nace_r2,P8510,Pre-primary education,4,P851
+nace_r2,P852,Primary education,3,P85
+nace_r2,P8520,Primary education,4,P852
+nace_r2,P853,Secondary education,3,P85
+nace_r2,P8531,General secondary education,4,P853
+nace_r2,P8532,Technical and vocational secondary education,4,P853
+nace_r2,P854,Higher education,3,P85
+nace_r2,P8541,Post-secondary non-tertiary education,4,P854
+nace_r2,P8542,Tertiary education,4,P854
+nace_r2,P855,Other education,3,P85
+nace_r2,P8551,Sports and recreation education,4,P855
+nace_r2,P8552,Cultural education,4,P855
+nace_r2,P8553,Driving school activities,4,P855
+nace_r2,P8559,Other education n.e.c.,4,P855
+nace_r2,P856,Educational support activities,3,P85
+nace_r2,P8560,Educational support activities,4,P856
+nace_r2,PLTR,Passenger land transport,0,NULL
+nace_r2,PLWTR,Passenger land and water transport,0,NULL
+nace_r2,PRTR,Passenger road transport,0,NULL
+nace_r2,PRV_RE,Private real estate activities,0,NULL
+nace_r2,PTR,Passenger transport,0,NULL
+nace_r2,PWTR,Passenger water transport,0,NULL
+nace_r2,P_Q,Education; human health and social work activities,0,NULL
+nace_r2,Q,Human health and social work activities,1,NULL
+nace_r2,Q86,Human health activities,2,Q
+nace_r2,Q861,Hospital activities,3,Q86
+nace_r2,Q8610,Hospital activities,4,Q861
+nace_r2,Q862,Medical and dental practice activities,3,Q86
+nace_r2,Q8621,General medical practice activities,4,Q862
+nace_r2,Q8622,Specialist medical practice activities,4,Q862
+nace_r2,Q8623,Dental practice activities,4,Q862
+nace_r2,Q869,Other human health activities,3,Q86
+nace_r2,Q8690,Other human health activities,4,Q869
+nace_r2,Q87,Residential care activities,2,Q
+nace_r2,Q871,Residential nursing care activities,3,Q87
+nace_r2,Q8710,Residential nursing care activities,4,Q871
+nace_r2,Q872,"Residential care activities for mental retardation, mental health and substance abuse",3,Q87
+nace_r2,Q8720,"Residential care activities for mental retardation, mental health and substance abuse",4,Q872
+nace_r2,Q873,Residential care activities for the elderly and disabled,3,Q87
+nace_r2,Q8730,Residential care activities for the elderly and disabled,4,Q873
+nace_r2,Q879,Other residential care activities,3,Q87
+nace_r2,Q8790,Other residential care activities,4,Q879
+nace_r2,Q87_Q88,Residential care activities and social work activities without accommodation,0,NULL
+nace_r2,Q88,Social work activities without accommodation,2,Q
+nace_r2,Q881,Social work activities without accommodation for the elderly and disabled,3,Q88
+nace_r2,Q8810,Social work activities without accommodation for the elderly and disabled,4,Q881
+nace_r2,Q889,Other social work activities without accommodation,3,Q88
+nace_r2,Q8891,Child day-care activities,4,Q889
+nace_r2,Q8899,Other social work activities without accommodation n.e.c.,4,Q889
+nace_r2,R,"Arts, entertainment and recreation",1,NULL
+nace_r2,R-U,"Arts, entertainment and recreation; other service activities; activities of household and extra-territorial organizations and bodies",0,NULL
+nace_r2,R90,"Creative, arts and entertainment activities",2,R
+nace_r2,R90-R92,"Creative, arts and entertainment activities; libraries, archives, museums and other cultural activities; gambling and betting activities",0,NULL
+nace_r2,R900,"Creative, arts and entertainment activities",3,R90
+nace_r2,R9001,Performing arts,4,R900
+nace_r2,R9002,Support activities to performing arts,4,R900
+nace_r2,R9003,Artistic creation,4,R900
+nace_r2,R9004,Operation of arts facilities,4,R900
+nace_r2,R91,"Libraries, archives, museums and other cultural activities",2,R
+nace_r2,R910,"Libraries, archives, museums and other cultural activities",3,R91
+nace_r2,R9101,Library and archives activities,4,R910
+nace_r2,R9102,Museums activities,4,R910
+nace_r2,R9103,Operation of historical sites and buildings and similar visitor attractions,4,R910
+nace_r2,R9104,Botanical and zoological gardens and nature reserves activities,4,R910
+nace_r2,R92,Gambling and betting activities,2,R
+nace_r2,R920,Gambling and betting activities,3,R92
+nace_r2,R9200,Gambling and betting activities,4,R920
+nace_r2,R92_R93,Gambling and betting activities; sporting and other recreational activities,0,NULL
+nace_r2,R93,Sports activities and amusement and recreation activities,2,R
+nace_r2,R931,Sports activities,3,R93
+nace_r2,R9311,Operation of sports facilities,4,R931
+nace_r2,R9312,Activities of sport clubs,4,R931
+nace_r2,R9313,Fitness facilities,4,R931
+nace_r2,R9319,Other sports activities,4,R931
+nace_r2,R932,Amusement and recreation activities,3,R93
+nace_r2,R9321,Activities of amusement parks and theme parks,4,R932
+nace_r2,R9329,Other amusement and recreation activities,4,R932
+nace_r2,ROW_ACT,Economic activities of the rest of the world,0,NULL
+nace_r2,R_S,"Arts, entertainment and recreation; other service activities",0,NULL
+nace_r2,R_S_X_S94,"Arts, entertainment and recreation; other service activities; except activities of membership organisations",0,NULL
+nace_r2,S,Other service activities,1,NULL
+nace_r2,S-U,Other service activities; activities of households as employers and extraterritorial organisations and bodies,0,NULL
+nace_r2,S94,Activities of membership organisations,2,S
+nace_r2,S941,"Activities of business, employers and professional membership organisations",3,S94
+nace_r2,S9411,Activities of business and employers membership organisations,4,S941
+nace_r2,S9412,Activities of professional membership organisations,4,S941
+nace_r2,S942,Activities of trade unions,3,S94
+nace_r2,S9420,Activities of trade unions,4,S942
+nace_r2,S949,Activities of other membership organisations,3,S94
+nace_r2,S9491,Activities of religious organisations,4,S949
+nace_r2,S9492,Activities of political organisations,4,S949
+nace_r2,S9499,Activities of other membership organisations n.e.c.,4,S949
+nace_r2,S95,Repair of computers and personal and household goods,2,S
+nace_r2,S951,Repair of computers and communication equipment,3,S95
+nace_r2,S9511,Repair of computers and peripheral equipment,4,S951
+nace_r2,S9512,Repair of communication equipment,4,S951
+nace_r2,S952,Repair of personal and household goods,3,S95
+nace_r2,S9521,Repair of consumer electronics,4,S952
+nace_r2,S9522,Repair of household appliances and home and garden equipment,4,S952
+nace_r2,S9523,Repair of footwear and leather goods,4,S952
+nace_r2,S9524,Repair of furniture and home furnishings,4,S952
+nace_r2,S9525,"Repair of watches, clocks and jewellery",4,S952
+nace_r2,S9529,Repair of other personal and household goods,4,S952
+nace_r2,S95_S96,"Repair of computers, personal and household goods; other personal service activities",0,NULL
+nace_r2,S96,Other personal service activities,2,S
+nace_r2,S960,Other personal service activities,3,S96
+nace_r2,S9601,Washing and (dry-)cleaning of textile and fur products,4,S960
+nace_r2,S9602,Hairdressing and other beauty treatment,4,S960
+nace_r2,S9603,Funeral and related activities,4,S960
+nace_r2,S9604,Physical well-being activities,4,S960
+nace_r2,S9609,Other personal service activities n.e.c.,4,S960
+nace_r2,SD_SU,Statistical discrepancy between supply and use of energy for total activities,0,NULL
+nace_r2,SERV_OTH,"Construction, services of the business economy except knowledge-intensive market services, financial and insurance activities",0,NULL
+nace_r2,S_T,"Other service activities, activities of households as employers",0,NULL
+nace_r2,T,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,1,NULL
+nace_r2,T97,Activities of households as employers of domestic personnel,2,T
+nace_r2,T970,Activities of households as employers of domestic personnel,3,T97
+nace_r2,T9700,Activities of households as employers of domestic personnel,4,T970
+nace_r2,T98,Undifferentiated goods- and services-producing activities of private households for own use,2,T
+nace_r2,T981,Undifferentiated goods-producing activities of private households for own use,3,T98
+nace_r2,T9810,Undifferentiated goods-producing activities of private households for own use,4,T981
+nace_r2,T982,Undifferentiated service-producing activities of private households for own use,3,T98
+nace_r2,T9820,Undifferentiated service-producing activities of private households for own use,4,T982
+nace_r2,T98_U,Undifferentiated goods- and services-producing activities of private households for own use and activities of extraterritorial organisations and bodies,0,NULL
+nace_r2,TI,Total tourism industries,0,NULL
+nace_r2,TIM,Tourism industries - mainly tourism,0,NULL
+nace_r2,TIP,Tourism industries - partially tourism,0,NULL
+nace_r2,TI_H4931,Total tourism industries; urban and suburban passenger land transport,0,NULL
+nace_r2,TI_LTR,Tourism industries - land transport,0,NULL
+nace_r2,TI_TR,Total tourism industries - transport,0,NULL
+nace_r2,TI_WTO,Total tourism industries; other accommodation and food service activities; real estate activities,0,NULL
+nace_r2,TI_WTR,Tourism industries - water transport,0,NULL
+nace_r2,TOT,Total (aggregate changing according to the context),0,NULL
+nace_r2,TOTAL,Total - all NACE activities,0,NULL
+nace_r2,TOTAL_HH,All NACE activities plus households,0,NULL
+nace_r2,TOTAL_HH_NRES,"All NACE activities plus households, non-residents and not allocated",0,NULL
+nace_r2,TOT_X_H491_H492,All NACE activities (except railways),0,NULL
+nace_r2,U,Activities of extraterritorial organisations and bodies,1,NULL
+nace_r2,U99,Activities of extraterritorial organisations and bodies,2,U
+nace_r2,U990,Activities of extraterritorial organisations and bodies,3,U99
+nace_r2,U9900,Activities of extraterritorial organisations and bodies,4,U990
+nace_r2,UNK,Unknown NACE activity,0,NULL
